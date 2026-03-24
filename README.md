@@ -157,7 +157,20 @@ pubCaseFinderの結果が返ってくる。
     - URL
     - 要約
     - 関連する疾患
-
+```
+{
+      "title": "AHDC1",
+      "url": "https://en.wikipedia.org/wiki/AHDC1",
+      "content": "[Source: Wikipedia] Disease: Xia-Gibbs Syndrome  \n\nGenetics: AHDC1; Typically de novo, autosomal dominant pattern  \n\nKey Phenotypes:\n\n- Global developmental delay  \n- Intellectual disability  \n- Generalized (global) hypotonia  \n- Obstructive sleep apnea  \n- Seizures  \n\nDifferentiating Features:\n\nHallmark(s): \n- Combination of global developmental delay/intellectual disability with generalized hypotonia and obstructive sleep apnea in the same patient  \n- Pathogenic/de novo variant in AHDC1  \n\nKey Negative Finding(s): \n- Not specified  \n\nUnique Constellation: \n- Global developmental delay/intellectual disability + marked hypotonia + obstructive sleep apnea + seizures, in the context of an AHDC1 mutation, strongly points to Xia-Gibbs Syndrome compared with other causes of developmental delay and hypotonia that lack prominent obstructive sleep apnea.",
+      "disease_name": "XIA-GIBBS SYNDROME; XIGIS"
+    },
+    {
+      "title": "CREB-binding protein",
+      "url": "https://en.wikipedia.org/wiki/CREB-binding_protein",
+      "content": "[Source: Wikipedia] Disease: Not specified (text describes the CREBBP/CBP protein, not a specific clinical syndrome)\n\nGenetics: Not specified\n\nKey Phenotypes:\n\n- Not specified in the provided text (only molecular and functional roles of CBP are described)\n\nDifferentiating Features:\n\nHallmark(s):  \n- None provided (no clinical syndrome or pathognomonic clinical signs described)\n\nKey Negative Finding(s):  \n- Not specified\n\nUnique Constellation:  \n- Not specified (no clinical symptom constellation is described, only involvement of CBP in various diseases at a molecular level)",
+      "disease_name": "RUBINSTEIN-TAYBI SYNDROME 1; RSTS1"
+    }
+```
 ### reflectionNode
 - ans
     - 疾患名
