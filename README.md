@@ -119,6 +119,14 @@ pubCaseFinderの結果が返ってくる。
 - URL
 - 要約
 
+```
+{
+      "title": "Cornelia de Lange syndrome 1 (Concept Id: C4551851) - MedGen -",
+      "url": "https://www.ncbi.nlm.nih.gov/medgen/1645760",
+      "snippet": "Disease: Not specified in provided text (insufficient context to identify a single syndrome)\n\nGenetics: Not specified in provided text\n\nKey Phenotypes:\n- Synophrys\n- Highly arched and/or thick eyebrows\n- Long eyelashes\n- Short nasal bridge with anteverted nares\n- Small, widely spaced teeth\n- Microcephaly\n\nDifferentiating Features:\n- Combination of synophrys + long eyelashes + short nasal bridge with anteverted nares suggests a “Cornelia de Lange–like” facial gestalt, but the excerpt alone is not sufficient to distinguish among CdLS and related mimics (e.g., CdLS spectrum genes, KBG, Wiedemann-Steiner, Coffin-Siris).\n\nHallmark(s):\n- Not specified as pathognomonic in provided text\n\nKey Negative Finding(s):\n- Not stated in provided text\n\nUnique Constellation:\n- Synophrys + thick/arched eyebrows + long eyelashes + short nasal bridge with anteverted nares + small widely spaced teeth + microcephaly (a distinctive craniofacial pattern; full diagnosis requires additional systemic/neurodevelopmental features and genetics not provided)."
+    }
+```
+
 ### createDiagnosisNode
 プロンプトはstateで管理されていない
 - 診断結果
