@@ -98,7 +98,8 @@ pubCaseFinderの結果が返ってくる。
         ]
       },
       "similarity_score": 0.8693238496780396
-    }```
+    }
+```
 ### createZeroShotNode
 ゼロショットによってLLMにそれっぽい診断を出させる
 プロンプトはstateで管理されていない
@@ -106,7 +107,13 @@ pubCaseFinderの結果が返ってくる。
     - 疾患名
     - 順位
     - omim id
-
+```
+{
+        "disease_name": "CORNELIA DE LANGE SYNDROME 1; CDLS1",
+        "rank": 1,
+        "OMIM_id": "OMIM:122470"
+      }
+```
 ### HPOwebSearchNode
 - タイトル
 - URL
