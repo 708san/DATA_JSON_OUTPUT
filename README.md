@@ -58,7 +58,12 @@ pubCaseFinderの結果が返ってくる。
     - 疾患名
     - 順位
     - omim id
-
+{
+        "disease_name": "CORNELIA DE LANGE SYNDROME 1; CDLS1",
+        "OMIM_id": "OMIM:122470",
+        "description": "Top multi-tool match: supported by PubCaseFinder (score 0.945), ZeroShot (rank 1), and GestaltMatcher (similarity 0.511); fits IUGR/postnatal growth retardation, microcephaly, synophrys/long eyelashes, hirsutism, thin upper lip, long philtrum, downturned mouth, limb/hand anomalies and limited elbow extension.",
+        "rank": 1
+      }
 
 ### HPOwebSearchNode
 - タイトル
