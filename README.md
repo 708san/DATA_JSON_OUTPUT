@@ -1,3 +1,7 @@
+# ツール概要
+<img width="1000" height="782" alt="image" src="https://github.com/user-attachments/assets/7007f1d8-b3fb-4178-a74d-2755d357180b" />
+
+
 # データの説明
 現状アクセス可能なデータ。
 形式は渡し方によってある程度調整できると思います(Pydanticで定義しているものを修正すればできそう）
