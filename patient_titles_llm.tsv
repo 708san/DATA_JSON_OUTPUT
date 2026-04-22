@@ -1,0 +1,962 @@
+patient_id	title	sex	age_iso8601duration	present_hpo_count	absent_hpo_count	image_exists	phenopacket_path
+100	高前頭・広前頭・性器系異常を伴う6歳女性の臨床所見	FEMALE	P6Y	7	56	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_100.json
+101	広い額と丸顔を伴う眼瞼下垂および眼間隔拡大を示す5歳8ヶ月女性	FEMALE	P5Y8M	22	42	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_101.json
+102	広い顔と低位耳を伴う11歳女性、眼瞼下垂と短い人中を特徴とする	FEMALE	P11Y2M	15	49	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_102.json
+103	三角頭蓋、高前額、広顔を伴う顔面形態異常の13歳女性	FEMALE	P13Y9M	24	40	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_103.json
+104	高前頭・広顔・眼間解離を伴う顔貌異常を呈する男性患者	MALE		16	49	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_104.json
+105	前頭部突出と三角頭蓋を伴う広い顔と眼間解離を特徴とする女性患者	FEMALE		27	37	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_105.json
+106	広い額と丸い顔を伴う眼瞼下垂および眼間解離を特徴とする女性乳幼児	FEMALE	P2Y9M	20	44	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_106.json
+107	前額突出と広前額を伴う眼瞼下垂や低位鼻柱を特徴とする6歳女性	FEMALE	P6Y9M	16	48	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_107.json
+108	狭い前額・眼間開離・滑らかな人中を伴う顔貌異常の17歳男性	MALE	P17Y2M	23	41	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_108.json
+110	広い額と顔、眼間解離、滑らかな人中を伴う顔面形態異常の7歳女性	FEMALE	P7Y11M	19	45	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_110.json
+112	下斜傾斜した眼裂と低位耳介を伴う特徴的顔貌の女性患者	FEMALE		10	53	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_112.json
+113	広い額と三角顔を伴う眼瞼下垂や内眼角間距離拡大を特徴とする女性患者	FEMALE		22	41	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_113.json
+114	突出した後頭部、高い額、下斜の眼裂を伴う女性の特徴的顔貌	FEMALE		19	44	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_114.json
+116	高前額、眼間開離、鼻球状を伴う顔貌特徴の男性患者	MALE		17	46	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_116.json
+117	広い額と顔、眼間隔拡大、低位鼻柱を伴う女性の特徴的顔貌	FEMALE		20	44	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_117.json
+118	高前頭・眼間開離・下垂を伴う女性の顔面形態異常	FEMALE		16	48	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_118.json
+119	女性患者119：三角頭蓋、広い額、眼間隔拡大を伴う顔面特徴	FEMALE		17	47	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_119.json
+120	高前頭・丸顔・眼瞼下垂を伴う男性の特徴的顔貌	MALE		18	46	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_120.json
+122	広い額と顔、眼間開大、短い人中を伴う特徴的顔貌の男性患者	MALE		18	46	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_122.json
+126	丸顔、下がった眼裂、薄い上唇紅を伴う女性の臨床所見	FEMALE		6	57	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_126.json
+127	広い額と眼間開離を伴う女性患者、鼻梁幅広と足指変形が特徴。	FEMALE		13	51	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_127.json
+128	広い額と滑らかな人中を伴う顔面特徴および手足異常を示す男性患者	MALE		13	51	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_128.json
+129	高前頭・丸顔・眼間隔拡大を伴う男性の特徴的顔貌	MALE		15	49	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_129.json
+130	高前頭・眼間開離・滑らかな人中を伴う特徴的顔貌と手足の異常を示す女性	FEMALE		10	54	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_130.json
+131	高前頭・広前頭・眼間距離開大を伴う滑らかな人中と長母趾を持つ女性	FEMALE		6	58	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_131.json
+136	高前頭・広前頭・眼間隔拡大を伴う丸顔の女性患者	FEMALE		8	56	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_136.json
+137	広い顔と眼間開離を伴う低位鼻柱および短い人中を特徴とする女性患者	FEMALE		19	44	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_137.json
+138	広い前額・三角顔・低位耳を伴う女性の特徴的顔貌	FEMALE		18	45	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_138.json
+139	高前頭・突出前頭・丸い鼻・薄い上唇紅を特徴とする女性患者	FEMALE		4	60	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_139.json
+140	高前頭・丸顔・眼瞼下垂を伴う男性の臨床遺伝的特徴	MALE		12	52	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_140.json
+141	高前頭・丸顔・眼間開離を伴う男性の特徴的顔貌	MALE		13	51	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_141.json
+142	広い前額と眼間開離を伴う顔面特徴および長い母趾を示す女性患者	FEMALE		11	53	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_142.json
+146	高前頭・丸顔・眼瞼下垂を伴う顔面特徴の男性患者	MALE		22	43	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_146.json
+147	高前頭・丸顔・平足を伴う特徴的顔貌と四肢異常を示す女性患者	FEMALE		11	53	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_147.json
+148	突出した後頭部、広い額と顔、眼瞼下垂を伴う眼間解離	FEMALE		20	44	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_148.json
+150	広い額と丸顔、眼瞼下垂を伴う外斜視が特徴の女性患者	FEMALE		19	45	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_150.json
+151	高前額・広前額・低位鼻柱を伴う男性の顔面形態異常	MALE		14	50	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_151.json
+152	高前頭・眼間開大・外耳奇形を伴う男性の生殖器系異常	MALE		8	56	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_152.json
+153	広い額と丸い顔を伴う深く落ちた眼と薄い上唇を特徴とする女性患者	FEMALE		8	47	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_153.json
+154	広い額と丸顔を伴う眼間開大および長く平滑な人中を特徴とする女性	FEMALE		17	47	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_154.json
+17	広い額と三角顔を伴う眼瞼下垂および外斜視を示す6歳女性	FEMALE	P6Y5M	30	35	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_17.json
+18	低位耳介と小さな手掌隆起を伴う丸顔の8歳男性	MALE	P8Y4M	16	49	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_18.json
+19	広い額と顔、眼瞼下垂、鼻梁の幅広さを伴う11歳女性の特徴的顔貌	FEMALE	P11Y2M	16	48	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_19.json
+21	高前額・広前額・丸顔を伴う男性患者（7歳3か月）の特徴的顔貌	MALE	P7Y3M	22	42	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_21.json
+24	広い額と丸顔を伴う女性患者、眼間解離と鼻部異常を特徴とする顔貌	FEMALE		16	48	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_24.json
+25	高前頭・広顔・眼間隔拡大を伴う6歳女性の特徴的顔貌	FEMALE	P6Y6M	25	40	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_25.json
+3	広い額と平坦な顔を伴う眼瞼下垂および眼間解離を特徴とする2歳女性	FEMALE	P2Y9M	28	36	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_3.json
+32	広い額と顔、眼間開離、眼瞼下垂、長い人中を伴う女性の症例	FEMALE		16	48	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_32.json
+34	三角頭蓋・三角顔・眼瞼下垂を伴う女性の顔面形態異常	FEMALE		24	40	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_34.json
+35	高前頭・広顔・眼瞼下垂を伴う男性幼児の特徴的顔貌	MALE	P3Y	25	39	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_35.json
+4	広い前額と眼間開大を伴う眼瞼下垂および耳介低形成の6歳女児	FEMALE	P6Y	17	47	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_4.json
+43	広い額と丸い顔を伴う女性患者、眼間開離と外斜視を特徴とする顔貌異常	FEMALE	P10Y9M	9	55	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_43.json
+45	広い前額・平坦な顔・眼瞼下垂を伴う21歳女性の臨床所見	FEMALE	P21Y3M	13	51	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_45.json
+5	高前頭・眼間隔拡大・鼻梁幅広を伴う3歳男性の顔面特徴	MALE	P3Y5M	22	41	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_5.json
+7	広い額と丸顔、眼間開離を伴う10歳女性の特徴的顔貌と足底偏平症	FEMALE	P10Y3M	15	50	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_7.json
+77	広い額と三角顔を伴う眼瞼下垂および鼻柱低位の1歳7ヶ月女性	FEMALE	P1Y7M	22	42	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_77.json
+80	広い額と顔、眼間解離、低形成鼻尖を伴う13歳女性の特徴的顔貌	FEMALE	P13Y6M	24	41	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_80.json
+81	三角頭蓋、高前額、眼間解離を伴う3歳女性	FEMALE	P3Y	31	33	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_81.json
+82	高前頭・眼間開離・外斜視を伴う眼瞼下垂の女性P2Y	FEMALE	P2Y	22	41	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_82.json
+83	三角頭蓋、高前額、三角顔を伴う女性の特徴的顔貌	FEMALE		24	36	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_83.json
+84	広い額と丸い顔を伴う眼瞼下垂および外斜視を呈する6歳女性	FEMALE	P6Y4M	23	41	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_84.json
+9	高前頭・広顔・眼瞼下垂を伴う男性患者（2歳）	MALE	P2Y	23	41	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_9.json
+91	三角頭蓋、三角顔、眼瞼下垂を伴う前額突出の10歳男性	MALE	P10Y5M	24	40	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_91.json
+93	広い額と丸い顔を伴う眉毛の薄さや眼瞼下垂を特徴とする1歳10か月の女性	FEMALE	P1Y10M	24	40	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_93.json
+94	三角頭蓋、丸顔、眼瞼下垂を伴う男性患者（19歳7か月）	MALE	P19Y7M	24	40	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_94.json
+95	広い額と三角顔を伴う眼瞼下垂および外斜視を呈する4歳女児	FEMALE	P4Y	25	40	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_95.json
+96	三角頭蓋、丸顔、眼瞼下垂を伴う前額突出と短い人中が特徴の19歳女性	FEMALE	P19Y11M	20	44	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_96.json
+97	広い額と丸い顔を伴う眼瞼下垂および眼間解離を特徴とする4歳女性	FEMALE	P4Y5M	28	36	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_97.json
+98	高前頭・眼間開離・厚い唇を伴う特徴的顔貌の7歳男性	MALE	P7Y9M	16	48	0	sampleData/0.1.25_filtered/11q_terminal_deletion/PMID_15266616_98.json
+Family 1 proband	掌蹠点状角化症を認める43歳女性、歯・爪・毛髪異常は否定。	FEMALE	P43Y	1	3	0	sampleData/0.1.25_filtered/AAGAB/PMID_28239884_Family1proband.json
+Family 2 proband	掌蹠点状角化症を認める45歳女性、歯・爪・毛髪異常は否定。	FEMALE	P45Y	1	3	0	sampleData/0.1.25_filtered/AAGAB/PMID_28239884_Family2proband.json
+Family 3 proband	掌蹠点状角化症を認める53歳女性、歯・爪・毛髪異常は否定。	FEMALE	P53Y	1	3	0	sampleData/0.1.25_filtered/AAGAB/PMID_28239884_Family3proband.json
+II.2	夜盲症、視野狭窄、電気網膜図非検出を伴う進行性網膜疾患	FEMALE	P34Y	7	0	0	sampleData/0.1.25_filtered/ABCA4/PMID_10874631_II2.json
+II-1	発達遅滞、非進行性小脳性運動失調、低色素性小赤血球性貧血を伴う男性患者	MALE		16	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_11050011_II-1.json
+II-2	低色素性小球性貧血、赤血球プロトポルフィリン濃度上昇、短身を伴う男性患者	MALE		7	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_11050011_II-2.json
+PATIENT II.1	貧血、運動異常、認知症を伴う男性患者	MALE		3	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_11118249_PATIENTII1.json
+PATIENT II.2	発達遅延と過反射を伴う運動失調、眼振、姿勢不安定を示す男性患者	MALE		7	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_11118249_PATIENTII2.json
+PATIENT III.2	小脳萎縮を伴う全般的発達遅滞、運動失調、統合失調症を呈する男性患者	MALE		15	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_11118249_PATIENTIII2.json
+PATIENT III.3	小脳萎縮と脳幹異常を伴う運動失調および発達遅延、赤血球プロトポルフィリン濃度増加	MALE		7	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_11118249_PATIENTIII3.json
+proband	赤血球異常（大小不同・形態異常・プロトポルフィリン濃度増加）と神経症状（斜視・構音障害・歩行障害）。	MALE		8	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_22398176_proband.json
+III-17	III-17: 全身性発達遅滞、非進行性小脳性運動失調、小脳低形成を伴う男性	MALE		7	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_26242992_III-17.json
+III-18	全身性発達遅滞と非進行性小脳性運動失調を伴う小脳低形成および眼球運動障害	MALE		8	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_26242992_III-18.json
+III-30	発達遅延、非進行性小脳性運動失調、眼球運動麻痺を伴う小脳低形成の男性	MALE		10	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_26242992_III-30.json
+III-6	全身性発達遅滞と非進行性小脳性運動失調を伴う小脳低形成および眼球運動障害	MALE		6	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_26242992_III-6.json
+IV-26	小脳低形成を伴う非進行性小脳性運動失調、全般的発達遅滞、眼球運動障害	MALE		7	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_26242992_IV-26.json
+IV-40	小脳低形成を伴う非進行性小脳性運動失調、全般的発達遅延、筋緊張低下	MALE		7	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_26242992_IV-40.json
+P18	発達遅滞、運動失調、貧血を伴う男性患者の臨床像	MALE		20	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_34354969_P18.json
+III.1	発達遅滞、非進行性小脳性運動失調、低色素性小赤血球性貧血を伴う男性患者	MALE		16	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_4045952_III1.json
+IV.12	発達遅延と非進行性小脳性運動失調を伴う貧血および眼球運動異常の男性患者	MALE		8	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_4045952_IV12.json
+IV.13	発達遅延と非進行性小脳性運動失調を伴う貧血および言語障害の男性患者	MALE		8	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_4045952_IV13.json
+IV.5	小脳性運動失調と発達遅滞を伴う低色素性小球性貧血および骨髄過形成	MALE		13	0	0	sampleData/0.1.25_filtered/ABCB7/PMID_4045952_IV5.json
+family 1	Amelogenesis imperfectaと歯のエナメル質の全般的低形成を認める症例	UNKNOWN_SEX		2	0	0	sampleData/0.1.25_filtered/ACP4/PMID_28513613_family1.json
+family 2	Amelogenesis imperfectaと歯のエナメル質の全般的低形成を認める症例	UNKNOWN_SEX		2	0	0	sampleData/0.1.25_filtered/ACP4/PMID_28513613_family2.json
+Patient 5	筋緊張低下、反射消失、高口蓋を伴う近位筋力低下と運動発達遅延の女性患者	FEMALE		7	5	0	sampleData/0.1.25_filtered/ACTA1/PMID_30517146_Patient5.json
+proband V-02	血小板減少症、平均血小板体積増加、血小板大小不同を伴う女性患者	FEMALE	P44Y	3	3	0	sampleData/0.1.25_filtered/ACTN1/PMID_24069336_probandV-02.json
+current case	男性患者、筋内異所性骨化と外反母趾、血中アルカリ性ホスファターゼ高値を伴う	MALE	P16Y	5	3	0	sampleData/0.1.25_filtered/ACVR1/PMID_29482508_currentcase.json
+patient	重症複合型免疫不全、リンパ球減少、低IgAおよび低IgMを伴う2歳男性	MALE	P2Y	6	0	0	sampleData/0.1.25_filtered/ADA/PMID_1680289_patient.json
+3-month-old girl	重症複合型免疫不全、胸腺形成不全、慢性口腔カンジダ症を伴う3ヶ月女児	FEMALE	P3M	11	0	0	sampleData/0.1.25_filtered/ADA/PMID_28823388_3-month-oldgirl.json
+Patient 1	小児男性における虚血性脳卒中、片麻痺、全身性エリテマトーデス関連所見の併発	MALE	P10Y	17	0	0	sampleData/0.1.25_filtered/ADA2/PMID_28830446_Patient1.json
+Patient 2	抗核抗体陽性、虚血性脳卒中、環状皮膚病変を伴う3歳男性の臨床像	MALE	P3Y	14	0	0	sampleData/0.1.25_filtered/ADA2/PMID_28830446_Patient2.json
+patient	小児期発症の女性、強度近視・腰椎過前弯・短指症を伴う低身長と心血管異常	FEMALE	P18Y	9	0	0	sampleData/0.1.25_filtered/ADAMTS10/PMID_25469541_patient.json
+patient	胎児期発症の多発奇形症候群：反復性呼吸器感染、四肢短縮、発達遅滞	MALE	P1Y3M	16	1	0	sampleData/0.1.25_filtered/ADAMTSL2/PMID_27057656_patient.json
+A II-2	小児期発症の両側性強直間代発作、重度知的障害、前頭葉多小脳回を伴う症候群	MALE	P14Y	8	0	0	sampleData/0.1.25_filtered/ADGRG1/PMID_29707406_AII-2.json
+A II-3	小児期発症の両側性強直間代発作、重度知的障害、運動失調を伴う男性患者	MALE	P9Y	7	0	0	sampleData/0.1.25_filtered/ADGRG1/PMID_29707406_AII-3.json
+B III-2	乳児期発症の女性患者、両側性強直間代発作、運動失調、口腔運動失行を伴う	FEMALE	P12Y	5	0	0	sampleData/0.1.25_filtered/ADGRG1/PMID_29707406_BIII-2.json
+B III-6	乳児期発症の女性患者、両側性強直間代発作、運動失調、口腔運動失行を伴う	FEMALE	P21Y	5	0	0	sampleData/0.1.25_filtered/ADGRG1/PMID_29707406_BIII-6.json
+C II-4	小児期発症の両側性強直間代発作、運動失調、眼振を伴う女性患者	FEMALE	P23Y	8	0	0	sampleData/0.1.25_filtered/ADGRG1/PMID_29707406_CII-4.json
+C II-5	小児期発症の両側性強直間代発作、広基性歩行、運動失調を伴う男性患者	MALE	P21Y	8	0	0	sampleData/0.1.25_filtered/ADGRG1/PMID_29707406_CII-5.json
+C II-6	小児期発症の両側性強直間代発作、運動失調、眼振を伴う女性患者	FEMALE	P19Y	8	0	0	sampleData/0.1.25_filtered/ADGRG1/PMID_29707406_CII-6.json
+A-II:1	男性患者A-II:1、乳児期発症、運動遅延と全身関節過可動性を伴う骨・皮膚異常	MALE	P35Y	18	19	0	sampleData/0.1.25_filtered/AEBP1/PMID_29606302_A-II1.json
+B-II-1	先天性発症の男性、股関節脱臼・全身関節過可動性・胸椎側弯を伴う	MALE	P33Y	20	14	0	sampleData/0.1.25_filtered/AEBP1/PMID_29606302_B-II-1.json
+C-IV:4	全身性関節可動域亢進と骨粗鬆症を伴う足部変形および皮膚異常の男性例	MALE	P24Y	8	10	0	sampleData/0.1.25_filtered/AEBP1/PMID_29606302_C-IV4.json
+C-IV:6	全身関節弛緩、骨変形（外反母趾・槌指・方形腸骨）、皮膚過剰と萎縮瘢痕	FEMALE	P12Y	25	9	0	sampleData/0.1.25_filtered/AEBP1/PMID_29606302_C-IV6.json
+LOVD ID AN_006205	新生児呼吸障害、運動遅延、胸椎側弯を伴う女性患者（P53歳）	FEMALE	P53Y	24	0	0	sampleData/0.1.25_filtered/AEBP1/PMID_30759870_LOVDIDAN_006205.json
+Kinship 1 Patient 1	近位筋と肩帯筋の筋力低下を伴う動揺性歩行、手筋萎縮を認める45歳女性	FEMALE	P45Y	6	4	0	sampleData/0.1.25_filtered/AGRN/PMID_24951643_Kinship1Patient1.json
+Kinship 1 Patient 2	足背屈筋と手筋力低下、母指球筋萎縮を伴う歩行障害の男性患者（43歳）	MALE	P43Y	5	1	0	sampleData/0.1.25_filtered/AGRN/PMID_24951643_Kinship1Patient2.json
+Kinship 2 Patient 3	遠位型筋萎縮症、足背屈筋力低下、呼吸不全を伴う36歳男性	MALE	P36Y	5	0	0	sampleData/0.1.25_filtered/AGRN/PMID_24951643_Kinship2Patient3.json
+Kinship 2 Patient 4	Thenar筋萎縮と足背屈筋力低下を伴う歩行障害および易疲労性の27歳女性	FEMALE	P27Y	6	0	0	sampleData/0.1.25_filtered/AGRN/PMID_24951643_Kinship2Patient4.json
+Patient 5	足背屈筋力低下、疲労しやすさ、つま先歩行・かかと歩行障害を伴う34歳男性	MALE	P34Y	4	2	0	sampleData/0.1.25_filtered/AGRN/PMID_24951643_Patient5.json
+Patient 1	先天性発症の低緊張・発達遅滞・低位耳を伴う女性乳児	FEMALE	P1Y6M	36	11	0	sampleData/0.1.25_filtered/AHDC1/PMID_24791903_Patient1.json
+Patient 2	先天性発症の低緊張、発達遅滞、中等度知的障害、脳梁低形成を伴う女性患児	FEMALE	P4Y	16	33	0	sampleData/0.1.25_filtered/AHDC1/PMID_24791903_Patient2.json
+Patient 3	先天性発症の低緊張、全般的発達遅滞、軽度知的障害を伴う特徴的顔貌の男児	MALE	P8Y	28	27	0	sampleData/0.1.25_filtered/AHDC1/PMID_24791903_Patient3.json
+Patient 4	先天性発症の筋緊張低下、笑いを伴う焦点性感情発作、発達遅滞を伴う11歳男性	MALE	P11Y	31	22	0	sampleData/0.1.25_filtered/AHDC1/PMID_24791903_Patient4.json
+Patient 1	発語なしと歩行遅延を伴う全般的発達遅滞、低緊張、外斜視、短身、小腸ヘルニア	MALE	P2Y	13	20	0	sampleData/0.1.25_filtered/AHDC1/PMID_27148574_Patient1.json
+Patient 2	発達遅滞と知的障害を伴う低緊張、内斜視、脳室周囲白質軟化を認める7歳女児	FEMALE	P7Y	19	16	0	sampleData/0.1.25_filtered/AHDC1/PMID_27148574_Patient2.json
+Patient 3	発達遅滞と知的障害を伴う低緊張、歩行失調、脳波異常を呈する5歳男児	MALE	P5Y	10	23	0	sampleData/0.1.25_filtered/AHDC1/PMID_27148574_Patient3.json
+Patient 4	発達遅滞と知的障害を伴う低緊張および脳白質減少を示す4歳女児	FEMALE	P4Y	11	22	0	sampleData/0.1.25_filtered/AHDC1/PMID_27148574_Patient4.json
+Patient 5	発達遅滞・知的障害・脳低形成を伴う9歳男性の症例	MALE	P9Y	16	19	0	sampleData/0.1.25_filtered/AHDC1/PMID_27148574_Patient5.json
+Patient 6	発達遅滞と知的障害を伴う低緊張、てんかん、クモ膜嚢胞を認める5歳男児	MALE	P5Y	12	24	0	sampleData/0.1.25_filtered/AHDC1/PMID_27148574_Patient6.json
+Patient 7	発達遅滞・知的障害・発話欠如を伴う自閉症と小脳後部嚢胞を示す16歳女性	FEMALE	P16Y	14	18	0	sampleData/0.1.25_filtered/AHDC1/PMID_27148574_Patient7.json
+case report	全身性発達遅滞と低緊張を伴う顔面形態異常および脳白質減少を示す8歳女児	FEMALE	P8Y	19	12	0	sampleData/0.1.25_filtered/AHDC1/PMID_29230160_casereport.json
+Patient 11	発達遅滞・低緊張・斜視を伴う4歳女性の歩行・言語発達遅延と低身長	FEMALE	P4Y	7	8	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient11.json
+Patient 12	全身性発達遅滞と運動失調を伴う低緊張および歩行・言語発達の遅れ	FEMALE	P11Y	5	9	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient12.json
+Patient 13	全身性発達遅滞と低緊張を伴う歩行・言語発達遅延、特徴的顔貌を呈する6歳女児	FEMALE	P6Y	12	16	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient13.json
+Patient 14	発達遅滞・言語欠如・低身長を伴う自閉症の17歳男性	MALE	P17Y	6	8	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient14.json
+Patient 15	発作、全般的発達遅滞、歩行遅延を伴う6歳女性の臨床像	FEMALE	P6Y	9	19	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient15.json
+Patient 17	発達遅延、低緊張、斜視を伴う6歳女性の臨床像	FEMALE	P6Y	9	20	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient17.json
+Patient 19	21歳男性、てんかん・全般的発達遅滞・筋緊張低下を伴う顔面特徴と脊柱側弯	MALE	P21Y	15	13	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient19.json
+Patient 20	発達遅滞・言語欠如・低身長を伴う睡眠時無呼吸の2歳男性	MALE	P2Y	4	9	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient20.json
+Patient 3	発作、全般的発達遅滞、自閉症を伴う10歳男性の遺伝性疾患疑い	MALE	P10Y	14	15	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient3.json
+Patient 4	発達遅滞と筋緊張低下を伴う言語欠如、特徴的顔貌を示す9歳男性	MALE	P9Y	13	14	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient4.json
+Patient 5	発語なしと歩行遅延を伴う全般的発達遅滞、筋緊張低下、下斜傾裂隙を認める男性	MALE	P13Y	9	18	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient5.json
+Patient 6	3歳男性、全身発達遅滞・筋緊張低下・短身を伴う特徴的顔貌と睡眠時無呼吸	MALE	P3Y	12	14	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient6.json
+Patient 8	発作、全般的発達遅滞、自閉症を伴う多発奇形の20歳女性	FEMALE	P20Y	12	16	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient8.json
+Patient 9	6歳女性、全般的発達遅滞・歩行遅延・筋緊張低下を伴う特徴的顔貌と運動失調	FEMALE	P6Y	12	15	0	sampleData/0.1.25_filtered/AHDC1/PMID_29696776_Patient9.json
+Case 1	知的障害と全身性発達遅延を伴う低緊張、二冠状縫合癒合を含む特徴的顔貌の女性	FEMALE	P14Y	13	34	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Case1.json
+Case 2	知的障害と発達遅延を伴う筋緊張低下および特徴的顔貌を示す29歳男性	MALE	P29Y	16	28	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Case2.json
+Case 3	知的障害と低緊張を伴う発達遅滞、特徴的顔貌と自己傷害行動を示す12歳男性	MALE	P12Y	17	22	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Case3.json
+Case 4	発達遅滞と軽度知的障害を伴う筋緊張低下および特徴的顔貌を呈する24歳男性	MALE	P24Y	14	21	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Case4.json
+Case 5	全身発達遅滞と低緊張を伴う脳梁低形成および心室中隔欠損を有する8か月女児	FEMALE	P8M	7	18	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Case5.json
+Patient 1	低身長と中等度知的障害を伴う頭部異常および全身発達遅延の14歳女性	FEMALE	P14Y	18	15	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Patient1.json
+Patient 2	発達遅延と筋緊張低下を伴う鼠径ヘルニアおよび眼瞼下垂を呈する29歳男性	MALE	P29Y	18	11	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Patient2.json
+Patient 3	重度知的障害と自閉症行動を伴う低緊張、発育不全、薄い脳梁を持つ12歳男性	MALE	P12Y	17	7	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Patient3.json
+Patient 4	重度知的障害、発達遅延、斜頭症を伴う24歳男性の臨床像	MALE	P24Y	16	9	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Patient4.json
+Patient 5	脳梁低形成、心室中隔欠損、全般的発達遅延を伴う8か月女性患者	FEMALE	P8M	8	7	0	sampleData/0.1.25_filtered/AHDC1/PMID_30152016_Patient5.json
+patient	小児期発症の強直間代発作、重度知的障害、自己傷害行動を伴う男性例	MALE	P55Y	18	9	0	sampleData/0.1.25_filtered/AHDC1/PMID_30622101_patient.json
+Case 1	全身性発達遅滞と筋緊張低下を伴う顔面形態異常（上斜眼裂・小顎・長い人中）。	MALE	P8Y2M	20	25	0	sampleData/0.1.25_filtered/AHDC1/PMID_30729726_Case1.json
+Case 2	全身性発達遅滞と筋緊張低下を伴う顔面形態異常（上斜眼裂・広間隔眼・長い人中）。	MALE	P4Y	18	5	0	sampleData/0.1.25_filtered/AHDC1/PMID_30729726_Case2.json
+patient	新生児呼吸障害と中等度知的障害を伴う特徴的顔貌の13歳女性	FEMALE	P13Y	19	14	0	sampleData/0.1.25_filtered/AHDC1/PMID_31182893_patient.json
+Case Report	発作、全般的発達遅滞、知的障害を伴う17歳男性の臨床像	MALE	P17Y	15	30	0	sampleData/0.1.25_filtered/AHDC1/PMID_32256298_CaseReport.json
+clinical report	重度知的障害、発達遅滞、僧帽弁逆流を伴うPes cavusの12歳男性	MALE	P12Y	18	7	0	sampleData/0.1.25_filtered/AHDC1/PMID_33372375_clinicalreport.json
+Female patient	自閉症、両側性強直間代発作、全般的発達遅滞を伴う7歳女性患者	FEMALE	P7Y6M	14	9	0	sampleData/0.1.25_filtered/AHDC1/PMID_34073322_Femalepatient.json
+Patient 1	中等度知的障害、発語欠如、運動遅延を伴う10歳男性の臨床像	MALE	P10Y	14	29	0	sampleData/0.1.25_filtered/AHDC1/PMID_34229113_Patient1.json
+Patient 2	発作、中等度知的障害、運動遅滞を伴う11歳男性の臨床像	MALE	P11Y	14	28	0	sampleData/0.1.25_filtered/AHDC1/PMID_34229113_Patient2.json
+Patient 3	7歳男性、全般的発達遅滞、中等度知的障害、低緊張を伴う歩行・言語発達遅延	MALE	P7Y	20	23	0	sampleData/0.1.25_filtered/AHDC1/PMID_34229113_Patient3.json
+Patient 4	中等度知的障害と全般的発達遅滞を伴う低緊張、外斜視、低位耳介の女性	FEMALE	P21Y	20	22	0	sampleData/0.1.25_filtered/AHDC1/PMID_34229113_Patient4.json
+Patient 1	14歳男性、てんかん・言語発達遅延・歩行遅延を伴う低緊張と粗い顔貌、脊柱側弯症	MALE	P14Y	7	22	0	sampleData/0.1.25_filtered/AHDC1/PMID_34950897_Patient1.json
+Patient 10	自閉症、筋緊張低下、発語遅延を伴う11歳女性の小頭症と短身症	FEMALE	P11Y	7	21	0	sampleData/0.1.25_filtered/AHDC1/PMID_34950897_Patient10.json
+Patient 3	言語発達遅滞、眼瞼裂延長、過遠視を伴う小児女性の臨床像	FEMALE	P10Y	9	20	0	sampleData/0.1.25_filtered/AHDC1/PMID_34950897_Patient3.json
+Patient 5	言語発達遅滞、薄い上唇紅、広い前額を伴う6歳女性	FEMALE	P6Y	3	25	0	sampleData/0.1.25_filtered/AHDC1/PMID_34950897_Patient5.json
+Patient 6	けいれん、言語発達遅滞、自閉症を伴う筋緊張低下と運動失調を呈する23歳男性	MALE	P23Y	6	22	0	sampleData/0.1.25_filtered/AHDC1/PMID_34950897_Patient6.json
+Patient 7	発作、言語発達遅滞、筋緊張低下を伴う小頭症の12歳女性	FEMALE	P12Y	7	20	0	sampleData/0.1.25_filtered/AHDC1/PMID_34950897_Patient7.json
+Patient 8	発作、歩行遅延、低緊張を伴う小耳症と自閉症を含む多発奇形の10歳男児	MALE	P10Y	12	14	0	sampleData/0.1.25_filtered/AHDC1/PMID_34950897_Patient8.json
+Patient 9	けいれん、筋緊張低下、短頭症を伴う小頭症と低身長の女性患者	FEMALE	P2Y	9	14	0	sampleData/0.1.25_filtered/AHDC1/PMID_34950897_Patient9.json
+Patient 1	発達遅延、発語欠如、特徴的顔貌を伴う3歳男性の臨床遺伝的評価	MALE	P3Y	17	20	0	sampleData/0.1.25_filtered/AHDC1/PMID_35716097_Patient1.json
+Patient 2	知的障害、発達遅滞、停留精巣を伴う11歳男性の症例	MALE	P11Y	4	27	0	sampleData/0.1.25_filtered/AHDC1/PMID_35716097_Patient2.json
+Patient 3	全身性発達遅滞と知的障害を伴う歩行遅延、筋緊張低下、特徴的顔貌を呈する男児	MALE	P6Y8M	17	16	0	sampleData/0.1.25_filtered/AHDC1/PMID_35716097_Patient3.json
+Patient 4	知的障害と全身性発達遅延を伴う小児男性、歩行遅延と低緊張、特徴的顔貌あり	MALE	P8Y	18	14	0	sampleData/0.1.25_filtered/AHDC1/PMID_35716097_Patient4.json
+Patient 5	軽度知的障害と全般的発達遅延を伴う歩行遅延、杯状耳、斜視、無頭皮症の男児	MALE	P9Y3M	8	14	0	sampleData/0.1.25_filtered/AHDC1/PMID_35716097_Patient5.json
+patient	全身性発達遅滞と低緊張を伴う小顎症および足関節クローヌスの11か月女性	FEMALE	P11M	5	17	0	sampleData/0.1.25_filtered/AHDC1/PMID_36157999_patient.json
+Case Presentation	重度知的障害と発達遅滞を伴う自閉症行動および脳梁低形成の15歳女性	FEMALE	P15Y6M	18	7	0	sampleData/0.1.25_filtered/AHDC1/PMID_38357260_CasePresentation.json
+Case Report	重度知的障害、低位耳、先天性股関節脱臼を伴う先天性発症の女性例	FEMALE	P14Y	30	17	0	sampleData/0.1.25_filtered/AHDC1/PMID_38357260_CaseReport.json
+Patient 1	知的障害と筋緊張低下を伴う発達遅滞、粗大顔貌と脊柱側弯を特徴とする男性	MALE	P14Y	14	33	0	sampleData/0.1.25_filtered/AHDC1/PMID_39359946_Patient1.json
+Patient 2	知的障害と全身性発達遅延、脳構造異常を伴う10歳男性患者	MALE	P10Y	15	31	0	sampleData/0.1.25_filtered/AHDC1/PMID_39359946_Patient2.json
+Sibling of patient 11	再発性真菌感染、低副甲状腺機能症、慢性活動性肝炎を伴う31歳女性	FEMALE	P31Y	3	1	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_Siblingofpatient11.json
+Sibling of patient 7	再発性真菌感染、低副甲状腺機能症、角結膜炎を伴う22歳男性患者	MALE	P22Y	3	2	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_Siblingofpatient7.json
+patient 1	反復性真菌感染、低副甲状腺機能症、原発性副腎不全、慢性活動性肝炎の男性患者	MALE	P17Y	4	1	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient1.json
+patient 10	再発性真菌感染、低副甲状腺機能症、原発性副腎不全を伴う女性患者（23歳）。	FEMALE	P23Y	6	1	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient10.json
+patient 11	再発性真菌感染、低副甲状腺機能症、原発性副腎不全を伴う21歳女性	FEMALE	P21Y	5	1	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient11.json
+patient 12	21歳女性、低副甲状腺機能症、真菌感染・副腎不全・白内障は除外	FEMALE	P21Y	1	3	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient12.json
+patient 13	再発性真菌感染、低副甲状腺機能症、原発性副腎不全を伴う20歳男性	MALE	P20Y	5	0	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient13.json
+patient 14	反復性真菌感染と副甲状腺機能低下症を伴う17歳女性	FEMALE	P17Y	2	2	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient14.json
+patient 2	副甲状腺機能低下症、原発性副腎不全、脱毛症、角結膜炎を伴う13歳男性	MALE	P13Y	4	1	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient2.json
+patient 3	反復性真菌感染と副甲状腺機能低下症を伴う11歳女性患者	FEMALE	P11Y	2	2	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient3.json
+patient 4	反復性真菌感染と副甲状腺機能低下症を伴う17歳女性	FEMALE	P17Y	2	2	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient4.json
+patient 5	再発性真菌感染、低副甲状腺機能症、原発性副腎不全を伴う30歳女性	FEMALE	P30Y	3	1	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient5.json
+patient 6	再発性真菌感染、低副甲状腺機能症、早発卵巣不全を伴う女性患者	FEMALE	P36Y	4	2	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient6.json
+patient 7	反復性真菌感染、低副甲状腺機能症、脱毛症を伴うP16女性	FEMALE	P16Y	4	2	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient7.json
+patient 8	再発性真菌感染、低副甲状腺機能症、原発性副腎不全を伴う22歳女性	FEMALE	P22Y	8	1	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient8.json
+patient 9	反復性真菌感染と副甲状腺機能低下症を認める26歳男性	MALE	P26Y	2	2	0	sampleData/0.1.25_filtered/AIRE/PMID_16965330_patient9.json
+Case 1	慢性粘膜皮膚カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う男性患者	MALE	P15Y	8	5	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case1.json
+Case 13	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う新生児発症例	FEMALE	P13Y	6	8	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case13.json
+Case 15	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う男性患者	MALE	P36Y	4	9	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case15.json
+Case 17	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う8歳男児	MALE	P8Y	3	10	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case17.json
+Case 18	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う男性	MALE	P43Y	4	9	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case18.json
+Case 19	慢性粘膜皮膚カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う21歳男性	MALE	P21Y	3	10	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case19.json
+Case 20	慢性粘膜皮膚カンジダ症と原発性副腎不全を伴う16歳男性	MALE	P16Y	2	10	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case20.json
+Case 21	慢性粘膜皮膚カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う新生児発症男性	MALE	P21Y	5	8	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case21.json
+Case 22	副甲状腺機能低下症、原発性副腎不全、早発卵巣不全を伴う自己免疫性疾患	FEMALE	P28Y	7	7	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case22.json
+Case 23	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う男性患者	MALE	P18Y	5	9	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case23.json
+Case 24	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う15歳男性	MALE	P15Y	5	8	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case24.json
+Case 3	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う男性患者	MALE	P32Y	6	7	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case3.json
+Case 4	慢性粘膜皮膚カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う男性	MALE	P17Y	3	10	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case4.json
+Case 6	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う女性患者	FEMALE	P58Y	7	8	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case6.json
+Case 7	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う女性患者	FEMALE	P33Y	6	9	0	sampleData/0.1.25_filtered/AIRE/PMID_18616706_Case7.json
+Family 1 individual III-13	慢性粘膜皮膚カンジダ症、低副甲状腺ホルモン血症、副腎皮質機能不全を伴う新生児発症女性	FEMALE	P17Y	5	14	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family1individualIII-13.json
+Family 1 individual III-9	汎発性脱毛症、低副甲状腺機能症、副腎皮質機能低下症を伴う新生児発症例	FEMALE	P14Y	5	14	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family1individualIII-9.json
+Family 1 individual IV-1	新生児発症の全身性脱毛症、1型糖尿病、慢性粘膜皮膚カンジダ症を伴う男児	MALE	P12Y	9	10	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family1individualIV-1.json
+Family 1 individual IV-9	新生児発症の全身性脱毛症、慢性粘膜皮膚カンジダ症、低副甲状腺機能症	MALE	P15Y	11	8	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family1individualIV-9.json
+Family 2 individual V-11	新生児期発症の男性、全身性脱毛症、慢性粘膜皮膚カンジダ症、低副甲状腺ホルモン血症	MALE	P12Y	6	13	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family2individualV-11.json
+Family 2 individual V-2	自己免疫性多腺性症候群1型：低副甲状腺ホルモン、1型糖尿病、全身性脱毛症	MALE	P11Y	6	13	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family2individualV-2.json
+Family 2 individual V-3	副甲状腺機能低下症と甲状腺機能低下症を伴うホルモン異常の男性患者	MALE	P2Y	4	15	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family2individualV-3.json
+Family 2 individual V-4	新生児発症の全身性脱毛症、慢性粘膜皮膚カンジダ症、副甲状腺機能低下症	FEMALE	P12Y	11	8	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family2individualV-4.json
+Family 2 individual V-5	副甲状腺機能低下症と副甲状腺ホルモン低値を認める7歳男性患者	MALE	P7Y	2	17	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family2individualV-5.json
+Family 3 individual II-5	低副甲状腺機能症と副甲状腺ホルモン低下を認める6歳女性	FEMALE	P6Y	2	17	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family3individualII-5.json
+Family 4 individual II-1	慢性粘膜皮膚カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う乳児発症男性	MALE	P35Y	5	14	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family4individualII-1.json
+Family 5 individual II-1	新生児期発症の全身性脱毛症、慢性粘膜皮膚カンジダ症、原発性副腎皮質機能不全	FEMALE	P10Y	6	13	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family5individualII-1.json
+Family 6 individual II-1	慢性粘膜皮膚カンジダ症、低副甲状腺機能症、副甲状腺ホルモン低下を伴う女性	FEMALE	P11Y	3	16	0	sampleData/0.1.25_filtered/AIRE/PMID_19758376_Family6individualII-1.json
+Patient 1	自己免疫性多腺性内分泌症候群1型に伴う慢性皮膚粘膜カンジダ症と副甲状腺機能低下症	FEMALE	P24Y	7	15	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient1.json
+Patient 2	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う11歳女性	FEMALE	P11Y	3	19	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient2.json
+Patient 3	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、下痢を伴う13歳女性	FEMALE	P13Y	5	17	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient3.json
+Patient 4	慢性粘膜皮膚カンジダ症、低カルシウム血症性副甲状腺機能低下症、副腎皮質機能不全	MALE	P23Y	15	7	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient4.json
+Patient 5	副甲状腺機能低下症と原発性副腎不全を伴う自己免疫性多腺性内分泌症候群	MALE	P24Y	7	14	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient5.json
+Patient 6	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、1型糖尿病を伴う4歳女性	FEMALE	P4Y	6	16	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient6.json
+Patient 7	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う抗体陽性	FEMALE	P16Y	6	16	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient7.json
+Patient 8	小児女性における原発性副腎皮質機能不全、自己免疫性多腺性症候群の可能性低い所見。	FEMALE	P6Y	1	17	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient8.json
+Patient 9	慢性皮膚粘膜カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う15歳女性	FEMALE	P15Y	6	16	0	sampleData/0.1.25_filtered/AIRE/PMID_19807739_Patient9.json
+Case 1	自己免疫性多腺性内分泌障害症候群：慢性皮膚粘膜カンジダ症、脱毛症、甲状腺疾患	FEMALE	P27Y	12	6	0	sampleData/0.1.25_filtered/AIRE/PMID_22024611_Case1.json
+Case 2	慢性粘膜皮膚カンジダ症と副甲状腺機能低下症を伴う36歳女性	FEMALE	P36Y	2	16	0	sampleData/0.1.25_filtered/AIRE/PMID_22024611_Case2.json
+Case 3	慢性粘膜皮膚カンジダ症、低副甲状腺機能症、原発性副腎不全を伴う男性	MALE	P38Y	3	15	0	sampleData/0.1.25_filtered/AIRE/PMID_22024611_Case3.json
+Case 4	自己免疫性多腺性内分泌不全症候群1型疑い：白斑、慢性皮膚粘膜カンジダ症、低副甲状腺機能症	FEMALE	P32Y	10	8	0	sampleData/0.1.25_filtered/AIRE/PMID_22024611_Case4.json
+ index case	下痢・吸収不良・低カルシウム血症を伴う低副甲状腺機能症および副腎不全	MALE	P21Y	7	0	0	sampleData/0.1.25_filtered/AIRE/PMID_28540407_indexcase.json
+female patient	小頭症、けいれん、筋緊張低下を伴う発達遅滞と肝腫大、トランスフェリン異常	FEMALE		6	2	0	sampleData/0.1.25_filtered/ALG9/PMID_15148656_femalepatient.json
+7-month-old girl	胎児期発症の心膜液貯留・けいれん・小脳萎縮を伴う多臓器障害の7か月女児	FEMALE	P7M	10	2	0	sampleData/0.1.25_filtered/ALG9/PMID_15945070_7-month-oldgirl.json
+Patient 1	先天性発症の女性患者：股関節脱臼、先天性皮膚欠損、全般的発達遅延	FEMALE	P6Y	18	2	0	sampleData/0.1.25_filtered/ALG9/PMID_26453364_Patient1.json
+Patient 2	小頭症、てんかん、全身発達遅延を伴う脳・小脳萎縮と肝腫大	MALE		7	3	0	sampleData/0.1.25_filtered/ALG9/PMID_26453364_Patient2.json
+Patient 3	小頭症、けいれん、全身発達遅滞を伴う小脳・大脳萎縮と肝腫大	FEMALE		7	3	0	sampleData/0.1.25_filtered/ALG9/PMID_26453364_Patient3.json
+Patient 4	先天性発症の短頸・長い人中・胎児心嚢液貯留を伴う非免疫性胎児水腫	MALE	P25D	7	6	0	sampleData/0.1.25_filtered/ALG9/PMID_26453364_Patient4.json
+eldest sister III:1	若年発症の巨赤芽球性貧血、蛋白尿、ビタミンB12低下を示す33歳女性	FEMALE	P33Y	3	0	0	sampleData/0.1.25_filtered/AMN/PMID_26040326_eldestsisterIII1.json
+younger sister III:2	巨赤芽球性貧血、蛋白尿、ビタミンB12低下が認められる23歳女性	FEMALE	P23Y	3	0	0	sampleData/0.1.25_filtered/AMN/PMID_26040326_youngersisterIII2.json
+6-year-old male	頭蓋底硬化と頭蓋骨肥厚を伴う鼻梁幅広および永久歯萌出遅延の9歳男性	MALE	P9Y	6	1	0	sampleData/0.1.25_filtered/ANKH/PMID_20186813_6-year-oldmale.json
+Patient A	新生児発症の男性、難聴・頭蓋骨過成長・血中骨形成マーカー上昇を伴う症例	MALE	P12Y	11	1	0	sampleData/0.1.25_filtered/ANKH/PMID_20358596_PatientA.json
+Patient B	頭蓋底硬化と頭蓋骨過形成を伴う小児期発症の聴覚障害および視神経萎縮	MALE	P23Y	11	1	0	sampleData/0.1.25_filtered/ANKH/PMID_20358596_PatientB.json
+Patient C	小児期発症の頭蓋骨過形成、眼間隔拡大、鼻腔狭窄を伴う男性患者	MALE	P43Y	9	0	0	sampleData/0.1.25_filtered/ANKH/PMID_20358596_PatientC.json
+Patient 1	低リン血症、頭蓋底硬化、視神経萎縮を伴う1歳5ヶ月女性の臨床像	FEMALE	P1Y5M	15	5	0	sampleData/0.1.25_filtered/ANKH/PMID_22150416_Patient1.json
+Patient 2	難聴、アルカリホスファターゼ上昇、頭蓋顔面異常を伴う5歳男性患者	MALE	P5Y	19	9	0	sampleData/0.1.25_filtered/ANKH/PMID_22150416_Patient2.json
+41-year-old woman	低リン血症、高PTH血症、二次性副甲状腺機能亢進症を伴う多発性関節症	FEMALE	P42Y	11	14	0	sampleData/0.1.25_filtered/ANKH/PMID_22647861_41-year-oldwoman.json
+Alves, 2019	短身・手の異常・全身性発作を伴う女性患者の臨床像	FEMALE		9	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Alves2019.json
+Behnert, 2018	知的障害、三角顔、短身を伴う男性の遺伝性疾患疑い	MALE		11	11	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Behnert2018.json
+Bianchi, 2018	知的障害と全身発達遅滞を伴う三角顔、厚い眉毛、巨歯を特徴とする女性例	FEMALE		13	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Bianchi2018.json
+Bucerzan2020	知的障害、自閉症行動、全身発作性てんかんを伴う発達遅滞の男性例	MALE		17	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Bucerzan2020.json
+Crippa2015_P1	知的障害、三角顔、心房中隔欠損を伴う多発奇形の男性患者	MALE		14	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Crippa2015_P1.json
+Crippa2015_P2	知的障害、三角顔、心房中隔欠損を伴う女性の臨床遺伝的特徴	FEMALE		12	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Crippa2015_P2.json
+Crippa2015_P3	三角顔、マクロドンティア、手の異常を伴う女性患者の臨床所見	FEMALE		9	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Crippa2015_P3.json
+Cucco, 2020 (Patient B)	知的障害、三角顔、心房中隔欠損を伴う男性患者	MALE		10	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Cucco2020PatientB.json
+DeBernardi2018	知的障害・発達遅延・三角顔を伴う手指異常と短身を示す男性患者	MALE		15	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_DeBernardi2018.json
+Gnazzo, 2020_P1	知的障害、発達遅滞、手の異常を伴う女性患者の臨床像	FEMALE		9	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P1.json
+Gnazzo, 2020_P10	知的障害と全身発達遅滞を伴う短身長および手指異常を特徴とする男性例	MALE		8	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P10.json
+Gnazzo, 2020_P11	知的障害・発達遅滞・肥厚眉毛を伴う女性の臨床像	FEMALE		9	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P11.json
+Gnazzo, 2020_P12	知的障害・発達遅延・短身を伴う女性患者の臨床所見	FEMALE		8	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P12.json
+Gnazzo, 2020_P13	知的障害と全身発達遅滞を伴う短身長、肥大歯、厚い眉毛の女性例	FEMALE		9	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P13.json
+Gnazzo, 2020_P14	知的障害と全般的発達遅滞を伴う厚い眉毛と長い人中の女性例	FEMALE		6	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P14.json
+Gnazzo, 2020_P15	発達遅滞、短身、肥厚眉毛を伴う女性の臨床像	FEMALE		8	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P15.json
+Gnazzo, 2020_P16	知的障害と全身発達遅滞を伴う短身長、肥厚眉毛、肥大歯を特徴とする女性例	FEMALE		10	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P16.json
+Gnazzo, 2020_P17	濃い眉毛・長い人中・眼間開離・丸い鼻を特徴とする女性患者	FEMALE		4	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P17.json
+Gnazzo, 2020_P18	知的障害・発達遅延・短身を伴う男性患者の特徴的顔貌と手の異常	MALE		9	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P18.json
+Gnazzo, 2020_P19	知的障害、全身発達遅滞、濃い眉毛を伴う女性患者の臨床像	FEMALE		8	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P19.json
+Gnazzo, 2020_P2	知的障害と全身発達遅滞を伴う巨歯症、長い人中、球状鼻を呈する女性例	FEMALE		7	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P2.json
+Gnazzo, 2020_P20	知的障害と全身発達遅滞を伴う短身・巨歯・鼻球状の男性例	MALE		9	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P20.json
+Gnazzo, 2020_P21	知的障害・発達遅延・短身を伴う特徴的顔貌と手の異常を示す女性患者	FEMALE		11	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P21.json
+Gnazzo, 2020_P22	知的障害、短身、手の異常を伴う女性患者の特徴的顔貌（太眉・長い人中・丸い鼻）	FEMALE		7	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P22.json
+Gnazzo, 2020_P23	短身・巨歯・眉毛濃厚を伴う女性の臨床像	FEMALE		6	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P23.json
+Gnazzo, 2020_P24	知的障害・発達遅延・短身を伴う女性の臨床像	FEMALE		9	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P24.json
+Gnazzo, 2020_P25	知的障害、短身、肥厚眉毛を伴う女性の遺伝性疾患の可能性	FEMALE		9	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P25.json
+Gnazzo, 2020_P26	知的障害、発達遅滞、短身を伴う特徴的顔貌と手の異常を示す男性患者	MALE		11	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P26.json
+Gnazzo, 2020_P27	知的障害、巨歯症、短身を伴う男性の臨床像	MALE		7	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P27.json
+Gnazzo, 2020_P28	知的障害・発達遅延・短身を伴う手の異常と顔面特徴を示す男性患者	MALE		9	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P28.json
+Gnazzo, 2020_P29	知的障害、巨歯症、太い眉毛、手の異常、眼間開離を伴う男性例	MALE		5	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P29.json
+Gnazzo, 2020_P3	知的障害と全身発達遅滞を伴う長い人中と手の異常を持つ女性患者	FEMALE		6	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P3.json
+Gnazzo, 2020_P30	知的障害・発達遅延・短身を伴う男性の遺伝性疾患疑い	MALE		8	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P30.json
+Gnazzo, 2020_P31	太い眉毛、長い人中、低身長、摂食困難を伴う女性患者	FEMALE		4	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P31.json
+Gnazzo, 2020_P4	知的障害、巨歯症、濃い眉毛を伴う女性の臨床像	FEMALE		7	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P4.json
+Gnazzo, 2020_P5	知的障害・発達遅滞・肥厚眉毛を伴う男性患者の手指異常と顔面特徴	MALE		10	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P5.json
+Gnazzo, 2020_P6	知的障害と全身発達遅滞を伴う特徴的顔貌（濃い眉毛・長い人中・丸い鼻）	MALE		7	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P6.json
+Gnazzo, 2020_P7	知的障害、発達遅滞、短身を伴う特徴的顔貌と手の異常を持つ男性例	MALE		11	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P7.json
+Gnazzo, 2020_P8	知的障害と全身発達遅滞を伴う女性患者、巨歯と濃い眉毛が特徴	FEMALE		6	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P8.json
+Gnazzo, 2020_P9	知的障害と全身発達遅滞を伴う肥厚眉毛・長い人中・肥大歯の女性例	FEMALE		8	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Gnazzo2020_P9.json
+Goldenberg2016_P1	発達遅延・低身長・言語発達遅延・小頭症を伴う女性患者	FEMALE		4	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P1.json
+Goldenberg2016_P10	発達遅延とマクロドンティアを伴う手の異常および言語発達遅延の男性例	MALE		4	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P10.json
+Goldenberg2016_P11	発達遅延・巨歯・手の異常を伴う女性患者	FEMALE		6	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P11.json
+Goldenberg2016_P12	発達遅滞・巨歯・言語発達遅延を伴う男性患者	MALE		3	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P12.json
+Goldenberg2016_P13	手の異常と低身長を伴う女性患者、頭囲正常	FEMALE		2	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P13.json
+Goldenberg2016_P14	発達遅延、短指症、マイクロセファリーを伴う女性の全身的発育遅延	FEMALE		7	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P14.json
+Goldenberg2016_P15	発達遅滞と言語発達遅延を伴う女性、手指異常や低身長などは認めず	FEMALE		2	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P15.json
+Goldenberg2016_P16	発達遅滞と言語発達遅延を伴う女性、手の異常・低身長・小頭症は認めず	FEMALE		2	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P16.json
+Goldenberg2016_P17	発達遅延と手の異常を伴う低身長女性、言語発達遅延と睡眠異常を呈する	FEMALE		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P17.json
+Goldenberg2016_P18	発達遅延・低身長・小頭症を伴う睡眠異常と言語発達遅延の男性患者	MALE		5	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P18.json
+Goldenberg2016_P19	発達遅延と短身、マクロドンティアを伴う手の異常と言語発達遅延の女性患者	FEMALE		5	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P19.json
+Goldenberg2016_P2	Macrodontiaと低身長を伴う女性患者、手の異常は認められず	FEMALE		2	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P2.json
+Goldenberg2016_P20	大歯・手の異常・低身長を伴う男性患者（小頭症は除外）	MALE		3	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P20.json
+Goldenberg2016_P21	発達遅延・巨歯・低身長を伴う女性患者	FEMALE		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P21.json
+Goldenberg2016_P22	発達遅滞とマクロドンティアを伴う手の異常および骨成熟遅延の男性例	MALE		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P22.json
+Goldenberg2016_P23	発達遅滞と低身長を伴う骨成熟遅延および言語発達遅延の男性患者	MALE		4	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P23.json
+Goldenberg2016_P24	知的障害と発達遅延を伴う男性、マクロドンティアと手の異常を認める	MALE		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P24.json
+Goldenberg2016_P25	知的障害、発達遅延、低身長を伴う女性患者の睡眠異常と言語発達遅延	FEMALE		5	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P25.json
+Goldenberg2016_P26	発達遅延・言語発達遅延・睡眠異常を伴う小頭症の男性患者	MALE		4	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P26.json
+Goldenberg2016_P27	発達遅延・巨歯・低身長を伴う女性患者	FEMALE		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P27.json
+Goldenberg2016_P28	知的障害、発達遅滞、言語発達遅延、睡眠異常を伴う女性患者	FEMALE		4	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P28.json
+Goldenberg2016_P29	発達遅延・低身長・言語発達遅延を伴う女性患者	FEMALE		3	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P29.json
+Goldenberg2016_P3	手の異常を伴う女性、低身長と小頭症は除外	FEMALE		1	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P3.json
+Goldenberg2016_P30	発達遅滞と手の異常を伴う言語発達遅延および睡眠異常の女性患者	FEMALE		4	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P30.json
+Goldenberg2016_P31	発達遅滞と手の異常を伴う骨成熟遅延および言語発達遅延の女性患者	FEMALE		4	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P31.json
+Goldenberg2016_P32	発達遅滞・巨歯・低身長を伴う男性の睡眠異常と言語発達遅延	MALE		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P32.json
+Goldenberg2016_P33	知的障害、発達遅滞、手の異常を伴う女性患者の臨床像	FEMALE		6	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P33.json
+Goldenberg2016_P34	発達遅延、短身、小頭症を伴う男性の全身的異常と手の異常	MALE		8	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P34.json
+Goldenberg2016_P35	発達遅滞・手の異常・停留精巣を伴う男性患者	MALE		4	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P35.json
+Goldenberg2016_P36	手の異常と小頭症を伴う男性患者	MALE		2	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P36.json
+Goldenberg2016_P38	Macrodontiaと低身長を伴う女性患者	FEMALE		2	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P38.json
+Goldenberg2016_P39	手の異常、骨成熟遅延、睡眠異常を伴う男性患者	MALE		3	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P39.json
+Goldenberg2016_P4	発達遅延・手の異常・言語発達遅延・小頭症を伴う男性患者	MALE		4	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P4.json
+Goldenberg2016_P5	知的障害と全身発達遅延を伴う手の異常および言語発達遅延の女性患者	FEMALE		4	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P5.json
+Goldenberg2016_P6	知的障害、発達遅滞、マイクロセファリーを伴う女性患者の手指異常と睡眠異常	FEMALE		7	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P6.json
+Goldenberg2016_P7	発達遅滞・マイクロセファリー・手の異常を伴う女性患者	FEMALE		6	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P7.json
+Goldenberg2016_P8	知的障害と発達遅延を伴う男性、マクロドンティアと手の異常を認める	MALE		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P8.json
+Goldenberg2016_P9	発達遅延・手の異常・言語発達遅延を伴う睡眠異常の女性患者	FEMALE		4	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Goldenberg2016_P9.json
+Isrie, 2012_P1	知的障害、自閉症行動、発達遅滞を伴う短身・手指異常の女性患者	FEMALE		10	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Isrie2012_P1.json
+Isrie, 2012_P2	知的障害、注意欠陥多動性障害、全般発達遅滞を伴う男性患者	MALE		9	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Isrie2012_P2.json
+Jin Kim, 2020_P1	知的障害、注意欠陥多動性障害、長い人中を伴う多発奇形の男性患者	MALE		10	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_JinKim2020_P1.json
+Jin Kim, 2020_P2	知的障害、自閉症様行動、局所発作を伴う三角顔と手の異常	MALE		9	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_JinKim2020_P2.json
+KBG1	知的障害・三角顔・発達遅滞を伴う男性の臨床像	MALE		14	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG1.json
+KBG10A	自閉症行動・注意欠陥多動性障害・全身発達遅滞を伴うKBG症候群疑い	MALE		14	22	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG10A.json
+KBG10B	三角顔貌、手の異常、運動および言語発達遅滞を伴う女性の臨床像	FEMALE		17	19	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG10B.json
+KBG11	知的障害、注意欠陥多動性障害、三角顔を伴う女性の遺伝性疾患の可能性	FEMALE		12	25	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG11.json
+KBG12	知的障害と注意欠陥多動性障害を伴う発達遅滞および短身女性の症例	FEMALE		13	23	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG12.json
+KBG13	知的障害、注意欠陥多動性障害、全身発達遅延を伴う女性患者の臨床像	FEMALE		13	22	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG13.json
+KBG14	知的障害、自閉症行動、注意欠陥多動性障害を伴う男性の発達遅延と特徴的顔貌	MALE		13	25	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG14.json
+KBG15	知的障害、自閉症行動、全身発達遅滞を伴うKBG症候群疑いの男性患者	MALE		12	24	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG15.json
+KBG16	自閉症行動・ADHD・全般的発達遅延を伴う三角顔と低身長の男性患者	MALE		18	21	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG16.json
+KBG17	知的障害、自閉症行動、三角顔を伴う発達遅滞と短身の男性患者	MALE		20	21	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG17.json
+KBG18	知的障害、自閉症行動、全身発達遅延を伴う女性患者の臨床像	FEMALE		10	28	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG18.json
+KBG19	注意欠陥多動性障害、巨歯症、短身を伴う男性の臨床像	MALE		11	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG19.json
+KBG2	知的障害、三角顔、太い眉を伴う男性患者の運動・言語遅延と睡眠異常	MALE		10	12	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG2.json
+KBG20	自閉症行動・注意欠陥多動性障害・大発達遅滞を伴うKBG症候群疑いの男性	MALE		13	19	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG20.json
+KBG21	知的障害と全身発達遅滞を伴う三角顔・大歯・長い人中を特徴とする男性患者	MALE		29	10	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG21.json
+KBG22	注意欠陥多動性障害、太い眉毛、長い人中を伴う手の異常が見られる女性患者	FEMALE		4	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG22.json
+KBG23	知的障害と発達遅滞を伴う短身女性、三角顔と巨歯が特徴	FEMALE		18	22	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG23.json
+KBG24	知的障害、自閉症行動、注意欠陥多動性障害を伴う三角顔と長い人中の男性	MALE		10	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG24.json
+KBG25	KBG25: 男性、太い眉毛・手の異常・低身長を伴う運動および言語発達遅延	MALE		9	30	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG25.json
+KBG26	知的障害、注意欠陥多動性障害、全身発達遅延を伴う男性患者	MALE		9	27	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG26.json
+KBG27	知的障害、自閉症行動、注意欠陥多動性障害を伴う女性の発達遅延と特徴的顔貌	FEMALE		16	22	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG27.json
+KBG28	知的障害と発達遅滞を伴う三角顔・低緊張・胎内発育遅延の女性例	FEMALE		12	25	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG28.json
+KBG29	知的障害と注意欠陥多動性障害を伴う発達遅滞、巨歯と短身を特徴とする男性	MALE		10	22	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG29.json
+KBG3	発達遅滞と大歯を伴う女性患者、特徴的な眉毛と低位耳介を認める	FEMALE		5	16	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG3.json
+KBG30	知的障害と全身発達遅滞を伴う長い人中と手の異常を持つ女性患者	FEMALE		8	32	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG30.json
+KBG31A	知的障害と全身発達遅滞を伴う三角顔・巨歯・心室中隔欠損の女性例	FEMALE		16	20	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG31A.json
+KBG31B	運動発達遅滞・言語発達遅滞・小頭症を伴う女性の睡眠異常と筋緊張低下	FEMALE		8	22	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG31B.json
+KBG32	KBG症候群疑い：自閉症行動、注意欠陥多動性障害、全般的発達遅滞を伴う男性	MALE		13	19	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG32.json
+KBG33	知的障害と自閉症行動を伴う発達遅滞、巨歯と感音性難聴を特徴とする男性	MALE		15	25	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG33.json
+KBG34	知的障害・ADHD・マクロドンティアを伴う特徴的顔貌の女性患者	FEMALE		15	21	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG34.json
+KBG35	注意欠陥多動性障害、巨歯症、手の異常、癒合眉を伴う男性患者	MALE		4	31	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG35.json
+KBG36	知的障害、巨歯、三角顔を伴う男性患者の低身長と運動・言語発達遅滞	MALE		18	19	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG36.json
+KBG37	KBG症候群を疑う女性患者：発達遅滞、三角顔、長い人中、手の異常を伴う	FEMALE		14	24	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG37.json
+KBG38	自閉症行動と全身発達遅滞を伴う三角顔貌・巨歯・筋緊張低下の女性例	FEMALE		17	21	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG38.json
+KBG39	知的障害、自閉症行動、全身性発達遅延を伴う男性の臨床像	MALE		8	15	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG39.json
+KBG4	知的障害と三角顔を伴う全身発達遅延、伝音性難聴を特徴とする女性患者	FEMALE		11	25	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG4.json
+KBG40	知的障害と全身発達遅滞を伴う大歯症、低身長、特徴的顔貌の男性例	MALE		10	17	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG40.json
+KBG41	Macrodontia、言語発達遅延、下顎前突を伴う男性患者の臨床所見	MALE		6	18	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG41.json
+KBG42	知的障害、自閉症行動、注意欠陥多動性障害を伴う女性の特徴的顔貌と発達遅延	FEMALE		13	15	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG42.json
+KBG43	知的障害、三角顔、低位前髪生え際を伴う男性の臨床像	MALE		8	13	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG43.json
+KBG44	知的障害、注意欠陥多動性障害、三角顔を伴う男性の臨床遺伝的特徴	MALE		17	21	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG44.json
+KBG45	知的障害、自閉症行動、全身性発達遅延を伴う男性患者の臨床像	MALE		9	30	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG45.json
+KBG46	知的障害と全身発達遅滞を伴う短頭症、小鼻肥厚、心房中隔欠損の男性例	MALE		8	30	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG46.json
+KBG47	知的障害、自閉症行動、全身発達遅延を伴う男性患者の臨床像	MALE		11	26	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG47.json
+KBG48	注意欠陥多動性障害、短身、手の異常を伴う女性の臨床遺伝的特徴	FEMALE		16	19	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG48.json
+KBG49	知的障害、自閉症行動、注意欠陥多動性障害を伴う三角顔と手の異常の男性	MALE		7	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG49.json
+KBG5	男性患者：巨歯症、運動発達遅滞、言語発達遅滞を伴う特徴的顔貌	MALE		8	21	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG5.json
+KBG50	自閉症行動・ADHD・全体的発達遅延を伴う男性のKBG症候群疑い	MALE		18	17	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG50.json
+KBG51	知的障害とADHDを伴う三角顔・低身長・発達遅滞を特徴とする男性例	MALE		12	17	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG51.json
+KBG52	知的障害、三角顔、手の異常を伴う男性患者の臨床所見	MALE		15	20	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG52.json
+KBG53	知的障害・注意欠陥多動性障害・手の異常を伴う女性の臨床遺伝的特徴	FEMALE		7	18	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG53.json
+KBG54	知的障害と全般的発達遅滞を伴う三角顔および運動発達遅滞の男性患者	MALE		4	18	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG54.json
+KBG55	知的障害・自閉症行動・全身発達遅延を伴う女性患者の臨床所見	FEMALE		9	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG55.json
+KBG56	知的障害、注意欠陥多動性障害、三角顔を伴う発達遅滞の男性患者	MALE		8	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG56.json
+KBG57	知的障害と全身発達遅滞を伴う手の異常と骨成熟遅延が特徴の女性例	FEMALE		9	20	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG57.json
+KBG58	知的障害、ADHD、マクロドンティアを伴う男性の臨床遺伝的特徴	MALE		11	15	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG58.json
+KBG59	知的障害、自閉症行動、全身発達遅延を伴う男性の特徴的顔貌と運動遅延	MALE		14	25	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG59.json
+KBG6	知的障害、注意欠陥多動性障害、全身発達遅滞を伴う特徴的顔貌と短身の男性	MALE		19	21	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG6.json
+KBG62	知的障害・ADHD・三角顔を伴う発達遅延と出生前発育不全の女性患者	FEMALE		11	28	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG62.json
+KBG63	知的障害、注意欠陥多動性障害、三角顔を伴う発達遅滞の男性患者	MALE		14	18	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG63.json
+KBG64	知的障害、巨歯、低身長を伴うKBG症候群疑いの男性患者	MALE		10	19	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG64.json
+KBG65	注意欠陥多動性障害、発達遅滞、マクロドンティアを伴う女性の臨床所見	FEMALE		12	27	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG65.json
+KBG66	知的障害、自閉症行動、注意欠陥多動性障害を伴う三角顔と厚い眉の男性	MALE		12	10	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG66.json
+KBG7	知的障害、自閉症行動、注意欠陥多動性障害を伴う発達遅滞と身体的特徴	FEMALE		14	16	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG7.json
+KBG8A	発達遅滞、三角顔、感音性難聴を伴う女性の多系統異常	FEMALE		20	19	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG8A.json
+KBG8B	三角顔貌、手の異常、低身長を伴う女性の臨床像	FEMALE		10	27	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG8B.json
+KBG9	低前髪生え際・眼間開離・巨歯を伴う女性の特徴的顔貌	FEMALE		6	22	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_KBG9.json
+Khalifa, 2013_P1A	発達遅滞・短身・手の異常を伴う男性患者の臨床像	MALE		17	10	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Khalifa2013_P1A.json
+Khalifa, 2013_P1B	Macrodontia、長い人中、眼間隔離を特徴とする女性患者	FEMALE		3	14	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Khalifa2013_P1B.json
+Kim, 2015_P1	知的障害、三角顔、短身を伴う全身発達遅滞とEEG異常を示す男性例	MALE		14	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kim2015_P1.json
+Kim, 2015_P2	知的障害と全身発達遅滞を伴う三角顔・巨歯・低身長の女性例	FEMALE		16	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kim2015_P2.json
+Kim, 2015_P3	知的障害、三角顔貌、短身を伴う特徴的顔貌と手の異常を示す女性患者	FEMALE		11	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kim2015_P3.json
+Kleyner, 2016	知的障害、自閉症行動、全身発作を伴う発達遅滞と特徴的顔貌の男性例	MALE		13	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kleyner2016.json
+Kutkowska-Kazmierczak2021_P1	三角顔と低身長を特徴とし知的障害・摂食困難・小頭症は認められない症例	UNKNOWN_SEX		2	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P1.json
+Kutkowska-Kazmierczak2021_P10	知的障害、発達遅延、三角顔を伴う男性患者の手指異常とマクロドンティア	MALE		7	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P10.json
+Kutkowska-Kazmierczak2021_P11	知的障害、発達遅延、低身長を伴う小頭症と摂食困難の患者例	UNKNOWN_SEX		6	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P11.json
+Kutkowska-Kazmierczak2021_P12	知的障害、発達遅滞、巨歯を伴う言語発達遅延と摂食困難	UNKNOWN_SEX		5	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P12.json
+Kutkowska-Kazmierczak2021_P13	発達遅延・三角顔・マクロドンティアを伴う手の異常と摂食困難	UNKNOWN_SEX		6	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P13.json
+Kutkowska-Kazmierczak2021_P14	発達遅延・巨歯・言語発達遅延・摂食困難を伴う症例	UNKNOWN_SEX		4	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P14.json
+Kutkowska-Kazmierczak2021_P16	発達遅延と言語発達遅延を伴うが巨歯症・低身長・摂食困難は認められないケース	UNKNOWN_SEX		2	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P16.json
+Kutkowska-Kazmierczak2021_P17	自閉症行動、全般的発達遅滞、言語発達遅延を伴う症例	UNKNOWN_SEX		3	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P17.json
+Kutkowska-Kazmierczak2021_P18	摂食困難を主訴とし知的障害・巨歯・低身長・言語発達遅延は認めず	UNKNOWN_SEX		1	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P18.json
+Kutkowska-Kazmierczak2021_P19	知的障害、発達遅延、言語発達遅延、摂食困難を伴う症例	UNKNOWN_SEX		4	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P19.json
+Kutkowska-Kazmierczak2021_P2	発達遅延・巨歯・言語発達遅延・小頭症を伴う症例	UNKNOWN_SEX		4	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P2.json
+Kutkowska-Kazmierczak2021_P20	低身長を主症状とし、巨歯症・言語発達遅延・摂食困難は認められないケース	UNKNOWN_SEX		1	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P20.json
+Kutkowska-Kazmierczak2021_P21	発達遅延、巨歯症、低身長を伴う言語発達遅延と摂食困難	UNKNOWN_SEX		5	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P21.json
+Kutkowska-Kazmierczak2021_P22	自閉症行動、全般的発達遅延、言語発達遅延を伴う症例	UNKNOWN_SEX		3	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P22.json
+Kutkowska-Kazmierczak2021_P23	知的障害、注意欠陥多動性障害、全身発達遅延を伴う短身とマクロドンティア	UNKNOWN_SEX		7	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P23.json
+Kutkowska-Kazmierczak2021_P3	三角顔、摂食困難、小頭症を伴う症例	UNKNOWN_SEX		3	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P3.json
+Kutkowska-Kazmierczak2021_P4	発達遅延と三角顔を伴う女性患者、巨歯と低身長を特徴とし知的障害は除外	FEMALE		6	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P4.json
+Kutkowska-Kazmierczak2021_P5	三角顔と全般的発達遅延を伴う運動・言語遅延および摂食困難の男性例	MALE		5	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P5.json
+Kutkowska-Kazmierczak2021_P6	知的障害、三角顔、発達遅延を伴う男性患者の短身と言語発達遅延	MALE		6	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P6.json
+Kutkowska-Kazmierczak2021_P7	発達遅延・巨歯・低身長・言語発達遅延を伴う症例	UNKNOWN_SEX		4	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P7.json
+Kutkowska-Kazmierczak2021_P8	知的障害、全般的発達遅延、三角顔を伴う男性患者の臨床所見	MALE		5	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P8.json
+Kutkowska-Kazmierczak2021_P9	知的障害、発達遅滞、巨歯を伴う言語発達遅延と摂食困難	UNKNOWN_SEX		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Kutkowska-Kazmierczak2021_P9.json
+Libianto2019	知的障害と全身発達遅滞を伴う短身・巨歯・手の異常を特徴とする男性例	MALE		8	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Libianto2019.json
+Lim2014	知的障害、注意欠陥多動性障害、三角顔を伴う発達遅滞の男性患者	MALE		12	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Lim2014.json
+Low, 2016_30 (28)	自閉症行動、注意欠陥多動性障害、手の異常を伴う低身長の女性患者	FEMALE		6	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_3028.json
+Low, 2016_31 (29)	自閉症行動、注意欠陥多動性障害、巨歯を伴う男性例	MALE		3	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_3129.json
+Low, 2016_32 (30)	Macrodontiaを認めるが心血管異常や聴覚障害を含む8つの所見は否定的な女性患者	FEMALE		1	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_3230.json
+Low, 2016_33 (31)	大歯症と反復性中耳炎を認める女性患者	FEMALE		2	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_3331.json
+Low, 2016_34 (32)	マクロドンティア、手の異常、全般性欠神発作を伴う伝音性難聴の女性患者	FEMALE		4	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_3432.json
+Low, 2016_P10 (18)	Macrodontia、手の異常、低身長を伴う骨成熟遅延の男性患者	MALE		4	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P1018.json
+Low, 2016_P11 (20)	知的障害、自閉症行動、大歯を伴う女性患者の心室中隔欠損と欠神発作	FEMALE		7	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P1120.json
+Low, 2016_P1 (19)	大歯症と低身長を特徴とする女性患者	FEMALE		2	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P119.json
+Low, 2016_P12 (13)	手の異常と骨成熟遅延を認める女性患者	FEMALE		2	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P1213.json
+Low, 2016_P13 (27)	男性患者：巨歯症、手の異常、小柄、骨成熟遅延、伝音性難聴を伴う症例	MALE		5	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P1327.json
+Low, 2016_P14 (2)	大歯症、手の異常、全般発作を伴う男性例	MALE		3	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P142.json
+Low, 2016_P15 (3)	全身性発作を呈する女性患者、心血管および骨格異常は否定的。	FEMALE		1	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P153.json
+Low, 2016_P16 (9)	自閉症様行動、大歯、摂食困難を伴う男性患者	MALE		3	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P169.json
+Low, 2016_P17 (10)	大歯症、小柄、伝音性難聴を特徴とする女性患者	FEMALE		3	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P1710.json
+Low, 2016_P18 (12)	知的障害、大歯、伝音性難聴、摂食困難を伴う男性患者の臨床所見	MALE		4	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P1812.json
+Low, 2016_P20 (14)	大歯症、伝音性難聴、摂食困難を特徴とする女性患者	FEMALE		3	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2014.json
+Low, 2016_P21 (15)	反復性中耳炎と摂食困難を呈する男性患者	MALE		2	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2115.json
+Low, 2016_P22 (16)	大歯・心房中隔欠損・伝音性難聴を伴う心血管異常の女性患者	FEMALE		7	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2216.json
+Low, 2016_P2 (26)	手の異常と心室中隔欠損を伴う女性患者	FEMALE		2	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P226.json
+Low, 2016_P23 (17)	知的障害、巨歯症、手の異常を伴う男性患者	MALE		3	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2317.json
+Low, 2016_P24 (21)	Macrodontiaと摂食困難を伴う女性患者の臨床所見	FEMALE		2	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2421.json
+Low, 2016_P26 (23)	自閉症行動、巨歯症、手の異常を伴う男性患者	MALE		6	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2623.json
+Low, 2016_P27 (24)	男性患者、巨歯症、手の異常、伝音性難聴、摂食困難を認める	MALE		4	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2724.json
+Low, 2016_P28 (25)	注意欠陥多動性障害、巨歯症、伝音性難聴を伴う男性例	MALE		3	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2825.json
+Low, 2016_P29 (27)	Macrodontia、手の異常、骨成熟遅延を伴う伝音性難聴の男性患者	MALE		4	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P2927.json
+Low, 2016_P3 (4)	大歯と房室中隔欠損を伴う男性患者の症例	MALE		2	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P34.json
+Low, 2016_P4 (5)	Macrodontia、手の異常、小柄を特徴とする女性患者	FEMALE		3	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P45.json
+Low, 2016_P5 (6)	大歯症、手の異常、低身長を特徴とする女性患者	FEMALE		3	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P56.json
+Low, 2016_P6 (7)	大歯症と手の異常を伴う女性患者	FEMALE		2	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P67.json
+Low, 2016_P7 (8)	大歯症と手の異常を特徴とする男性例	MALE		2	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P78.json
+Low, 2016_P8 (33)	停留精巣を認める男性患者、心血管異常や聴覚障害は除外。	MALE		1	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P833.json
+Low, 2016_P9 (1)	自閉症様行動、手の異常、低身長、骨成熟遅延を伴う女性患者	FEMALE		4	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2016_P91.json
+Low2017	知的障害、自閉症行動、注意欠陥多動性障害を伴う発達遅延と特徴的顔貌の男性	MALE		13	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Low2017.json
+Mattei2021	発達遅滞と巨歯症を伴う厚い眉毛・球状鼻・伝音性難聴の男性例	MALE		10	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Mattei2021.json
+Miyatake, 2013	知的障害と全身発達遅滞を伴う特徴的顔貌および運動・言語遅滞の男性例	MALE		14	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Miyatake2013.json
+Miyatake, 2017_P1	知的障害、発達遅滞、手の異常を伴う女性患者	FEMALE		8	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Miyatake2017_P1.json
+Miyatake, 2017_P2	知的障害、全身発達遅滞、特徴的顔貌（太い眉毛・低い前髪生え際・広い眼間距離）	MALE		12	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Miyatake2017_P2.json
+Miyatake, 2017_P3	知的障害、自閉症行動、全身性発作を伴う多発性心奇形の男性例	MALE		12	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Miyatake2017_P3.json
+Murray, 2017_P10 (7.1.)	知的障害、マクロドンティア、手の異常を伴う女性の臨床像	FEMALE		10	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P1071.json
+Murray, 2017_P1 (1.1)	知的障害、注意欠陥多動性障害、全身発達遅延を伴う男性患者の臨床像	MALE		10	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P111.json
+Murray, 2017_P11 (8.1.)	知的障害、短頭症、肥厚眉毛を伴う女性の手指異常と低身長	FEMALE		8	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P1181.json
+Murray, 2017_P12 (9.1)	知的障害、ADHD、三角顔を伴う女性患者の特徴的顔貌と手の異常	FEMALE		10	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P1291.json
+Murray, 2017_P13 (11.1)	知的障害、注意欠陥多動性障害、長い人中を伴う男性の多発奇形	MALE		11	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P13111.json
+Murray, 2017_P16 (13.1)	知的障害、短身、伝音性難聴を伴う眉毛癒合と手の異常が特徴の女性患者	FEMALE		10	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P16131.json
+Murray, 2017_P2 (1.2)	知的障害、全身発達遅延、長い人中を伴う男性患者の臨床所見	MALE		11	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P212.json
+Murray, 2017_P3 (1.3)	知的障害、三角顔、低位耳介を伴う男性例	MALE		8	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P313.json
+Murray, 2017_P4 (2.1)	知的障害、注意欠陥多動性障害、三角顔を伴う女性の発達遅延と手指異常	FEMALE		8	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P421.json
+Murray, 2017_P5 (3.1)	知的障害、注意欠陥多動性障害、全身発達遅滞を伴う女性の臨床像	FEMALE		13	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P531.json
+Murray, 2017_P6 (3.2)	知的障害、短身、広間隔眼を伴う女性の特徴的顔貌と手の異常	FEMALE		7	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P632.json
+Murray, 2017_P7 (3.3)	知的障害、短指症、心室中隔欠損を伴う女性の臨床遺伝的特徴	FEMALE		7	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P733.json
+Murray, 2017_P8 (4.1)	知的障害、三角顔、低身長を伴う多発奇形の女性患者	FEMALE		12	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P841.json
+Murray, 2017_P9 (5.1.)	知的障害、自閉症行動、注意欠陥多動性障害を伴う三角顔と発達遅延の男性	MALE		16	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Murray2017_P951.json
+Novara, 2017_P1	知的障害、注意欠陥多動性障害、短身を伴う多発奇形症候群	MALE		12	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P1.json
+Novara, 2017_P10	Microcephalyを呈する女性患者	FEMALE		1	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P10.json
+Novara, 2017_P11	自閉症行動・全身発達遅滞・全般発作を伴う特徴的顔貌の女性例	FEMALE		11	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P11.json
+Novara, 2017_P12	長い人中・低い前髪生え際・強調されたキューピッドの弓を特徴とする女性患者	FEMALE		3	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P12.json
+Novara, 2017_P2	知的障害、手の異常、筋緊張低下を伴う男性患者の心室中隔欠損と摂食困難	MALE		5	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P2.json
+Novara, 2017_P3	全身性発達遅滞、巨歯症、伝音性難聴を伴う男性例	MALE		4	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P3.json
+Novara, 2017_P4	発達遅滞と低身長を伴う出生前発育不全、骨成熟遅延、特徴的顔貌の男性例	MALE		7	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P4.json
+Novara, 2017_P5	発達遅延、感音性難聴、停留精巣を伴う男性の臨床像	MALE		8	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P5.json
+Novara, 2017_P7	発達遅延・巨歯・言語発達遅延を伴う男性患者	MALE		3	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P7.json
+Novara, 2017_P8	知的障害、自閉症行動、全般発作を伴うEEG異常が認められる男性患者	MALE		4	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P8.json
+Novara, 2017_P9	低身長、胎内発育遅延、心室中隔欠損を伴う男性例	MALE		3	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Novara2017_P9.json
+Ockeloen2015_P1	知的障害、自閉症様行動、マクロドンティア、手の異常、停留精巣を伴う男性患者	MALE		5	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P1.json
+Ockeloen2015_P10	知的障害、大歯症、手の異常、低身長を伴う女性患者	FEMALE		4	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P10.json
+Ockeloen2015_P11	知的障害、自閉症行動、注意欠陥多動性障害を伴う短身男性の手指異常と停留精巣	MALE		7	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P11.json
+Ockeloen2015_P12	注意欠陥多動性障害、発達遅滞、マクロドンティアを伴う女性患者	FEMALE		5	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P12.json
+Ockeloen2015_P13	知的障害、大歯症、手の異常、低身長を伴う女性患者	FEMALE		4	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P13.json
+Ockeloen2015_P14	自閉症行動、注意欠陥多動性障害、大歯症、低身長を伴う男性患者	MALE		4	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P14.json
+Ockeloen2015_P15	知的障害、大歯症、手の異常、低身長を伴う女性患者	FEMALE		4	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P15.json
+Ockeloen2015_P16	知的障害、大歯症、手の異常を伴う男性患者	MALE		5	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P16.json
+Ockeloen2015_P17	知的障害、自閉症行動、注意欠陥多動性障害を伴う短身と手の異常を持つ男性	MALE		6	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P17.json
+Ockeloen2015_P18	知的障害、大歯症、手の異常、低身長を伴う女性患者	FEMALE		4	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P18.json
+Ockeloen2015_P19	知的障害、手の異常、低身長を伴う女性患者	FEMALE		3	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P19.json
+Ockeloen2015_P2	知的障害、自閉症行動、注意欠陥多動性障害を伴う男性患者	MALE		6	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P2.json
+Ockeloen2015_P20	知的障害、大歯、低身長を伴う患者	UNKNOWN_SEX		3	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P20.json
+Ockeloen2015_P3	知的障害、自閉症様行動、大歯症、手の異常を伴う女性患者	FEMALE		4	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P3.json
+Ockeloen2015_P4	知的障害、自閉症行動、注意欠陥多動性障害を伴う男性の短身・手異常・斜視	MALE		7	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P4.json
+Ockeloen2015_P5	知的障害、大歯症、手の異常、低身長を伴う女性患者	FEMALE		4	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P5.json
+Ockeloen2015_P6	知的障害、注意欠陥多動性障害、短指症を伴う小柄な男性患者	MALE		5	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P6.json
+Ockeloen2015_P7	大歯症、手の異常、低身長、骨成熟遅延を伴う男性患者	MALE		4	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P7.json
+Ockeloen2015_P8	自閉症行動、ADHD、短指症を伴う女性患者	FEMALE		5	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P8.json
+Ockeloen2015_P9	知的障害、三角顔、手の異常を伴う低身長と骨成熟遅延の男性患者	MALE		6	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Ockeloen2015_P9.json
+Palumbo 2016	知的障害・発達遅滞・手の異常を伴う男性患者の臨床所見	MALE		7	11	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Palumbo2016.json
+Parenti2016_P1	知的障害、自閉症行動、全般的発達遅滞を伴う女性の特徴的顔貌と運動・言語遅滞	FEMALE		13	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2016_P1.json
+Parenti2016_P2	発達遅延・マクロドンティア・全般性発作を伴う男性の特徴的顔貌と手の異常	MALE		10	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2016_P2.json
+Parenti2021_P1	知的障害、自閉症行動、全般的発達遅延を伴う女性の臨床像	FEMALE		9	14	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P1.json
+Parenti2021_P10	知的障害と全般的発達遅滞を伴う長い人中と巨歯を特徴とする男性例	MALE		8	16	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P10.json
+Parenti2021_P11	知的障害、発達遅滞、特徴的顔貌（太い眉毛・長い人中・低い前髪生え際）	MALE		13	11	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P11.json
+Parenti2021_P12	知的障害、発達遅滞、三角顔を伴う短身男性の臨床像	MALE		14	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P12.json
+Parenti2021_P13	知的障害、発達遅延、特徴的顔貌（太い眉毛・低い前髪生え際・球状鼻）を伴う男性	MALE		12	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P13.json
+Parenti2021_P14	知的障害と全身発達遅滞を伴う長い人中・手の異常・球状鼻を特徴とする女性	FEMALE		9	14	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P14.json
+Parenti2021_P15	知的障害、注意欠陥多動性障害、全身発達遅延を伴う女性の臨床像	FEMALE		11	14	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P15.json
+Parenti2021_P16	発達遅延・小頭症・停留精巣を伴う特徴的顔貌と手の異常を示す男性患者	MALE		10	12	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P16.json
+Parenti2021_P17	知的障害、太い眉毛、手の異常を伴う男性患者	MALE		9	15	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P17.json
+Parenti2021_P18	注意欠陥多動性障害、全身発達遅滞、マクロドンティアを伴う男性例	MALE		10	12	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P18.json
+Parenti2021_P19	知的障害と全身発達遅滞を伴う長い人中・大歯・手の異常を特徴とする女性例	FEMALE		11	13	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P19.json
+Parenti2021_P2	発達遅滞と長い人中を伴う手の異常を含む多発性身体特徴の男性患者	MALE		11	13	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P2.json
+Parenti2021_P20	知的障害と全身発達遅滞を伴う長い人中と手の異常を特徴とする男性例	MALE		9	15	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P20.json
+Parenti2021_P21	知的障害、自閉症行動、全身発達遅滞を伴う女性の臨床像	FEMALE		14	10	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P21.json
+Parenti2021_P22	知的障害と全身発達遅滞を伴う短身長・小頭症・太い眉毛の女性例	FEMALE		13	11	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P22.json
+Parenti2021_P23	自閉症様行動、巨歯症、癒合眉を伴う男性の特徴的顔貌と手の異常	MALE		7	11	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P23.json
+Parenti2021_P3	知的障害、発達遅滞、短身を伴う特徴的顔貌と手の異常を持つ女性例	FEMALE		12	11	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P3.json
+Parenti2021_P4	知的障害、短身、手の異常を伴う女性の臨床像	FEMALE		8	10	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P4.json
+Parenti2021_P5	発達遅滞と短身・手指異常を伴う眉間癒合と低前髪生え際の女性例	FEMALE		12	12	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P5.json
+Parenti2021_P6	知的障害、発達遅滞、マクロドンティアを伴う女性の臨床像	FEMALE		11	13	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P6.json
+Parenti2021_P7	発達遅滞と特徴的顔貌（太い眉・長い人中・低い前髪生え際）を伴う女性	FEMALE		7	17	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P7.json
+Parenti2021_P8	知的障害と全身発達遅滞を伴う長い人中と巨歯を特徴とする男性例	MALE		10	15	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P8.json
+Parenti2021_P9	知的障害・発達遅延・手の異常を伴う男性患者の臨床像	MALE		13	11	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Parenti2021_P9.json
+Rentas2021_P1	注意欠陥多動性障害、全般的発達遅滞、局所発作を伴う女性患者	FEMALE		6	6	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Rentas2021_P1.json
+Reuter2020	心房中隔欠損症と摂食困難を伴う男性患者	MALE		2	4	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Reuter2020.json
+Sacharow, 2012_P1	知的障害、注意欠陥多動性障害、全身性発達遅滞を伴う三角顔と心疾患の男性	MALE		12	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sacharow2012_P1.json
+Sacharow, 2012_P2	Macrodontia、三角顔、手の異常を特徴とする女性患者	FEMALE		3	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sacharow2012_P2.json
+Sayed, 2020_P1	知的障害・全身発達遅延・短身を伴う三角顔と厚い眉毛の男性患者	MALE		16	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sayed2020_P1.json
+Sayed, 2020_P2	発達遅延・三角顔・小頭症を伴う男性の短身・骨成熟遅延・球状鼻	MALE		8	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sayed2020_P2.json
+Scarano, 2013_P1	知的障害、三角顔貌、短身を伴う手の異常と骨成熟遅延の男性例	MALE		9	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P1.json
+Scarano, 2013_P10	知的障害、巨歯症、長い人中を伴う手の異常と停留精巣を持つ男性例	MALE		7	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P10.json
+Scarano, 2013_P11	知的障害、三角顔、短身を伴う男性の遺伝性疾患の可能性	MALE		8	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P11.json
+Scarano, 2013_P12	知的障害、巨歯、長い人中を伴う女性の手指異常と骨成熟遅延	FEMALE		6	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P12.json
+Scarano, 2013_P2	Macrodontia、長い人中、停留精巣を伴う手の異常と骨成熟遅延の男性患者	MALE		6	9	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P2.json
+Scarano, 2013_P3	知的障害、短身、手の異常を伴う男性患者の臨床像	MALE		8	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P3.json
+Scarano, 2013_P4	知的障害、巨歯症、長い人中を伴う短身と手の異常を特徴とする男性例	MALE		7	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P4.json
+Scarano, 2013_P5	知的障害、三角顔、短身を伴う女性の臨床像	FEMALE		8	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P5.json
+Scarano, 2013_P6	知的障害、三角顔、短身を伴う男性患者の臨床所見	MALE		9	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P6.json
+Scarano, 2013_P7	知的障害、巨歯症、長い人中を伴う短身男性の手指異常と骨成熟遅延	MALE		8	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P7.json
+Scarano, 2013_P8	Macrodontia、長い人中、手の異常を伴う低身長と骨成熟遅延の女性患者	FEMALE		6	8	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P8.json
+Scarano, 2013_P9	知的障害、巨歯、長い人中を伴う女性の手指異常と低身長	FEMALE		6	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Scarano2013_P9.json
+Sirmaci2011_P1/F1? (previously published Tekin, 2004)	知的障害、三角顔、手の異常を伴う男性患者の臨床像	MALE		13	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sirmaci2011_P1F1previouslypublishedTekin2004.json
+Sirmaci2011_P2	知的障害、三角顔、長い人中を伴う特徴的顔貌と骨格異常を持つ男性患者	MALE		11	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sirmaci2011_P2.json
+Sirmaci2011_P2/F1? (previously published Tekin, 2004)	知的障害、注意欠陥多動性障害、三角顔を伴う男性患者の臨床像	MALE		15	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sirmaci2011_P2F1previouslypublishedTekin2004.json
+Sirmaci2011_P3	知的障害、全身発達遅延、特徴的顔貌（三角顔、太い眉、広い眼間隔）を伴う男性	MALE		12	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sirmaci2011_P3.json
+Sirmaci2011_P3/F1? (previously published Tekin, 2004)	知的障害、三角顔、マクロドンティアを伴う特徴的顔貌と手指異常の男性例	MALE		12	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sirmaci2011_P3F1previouslypublishedTekin2004.json
+Sirmaci2011_P4 (previously published Brancati, 2004)	知的障害、注意欠陥多動性障害、三角顔を伴う男性の特徴的顔貌と手の異常	MALE		10	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sirmaci2011_P4previouslypublishedBrancati2004.json
+Sirmaci2011_P5	三角顔貌、知的障害、手の異常を伴う特徴的顔貌と骨成熟遅延の男性例	MALE		12	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Sirmaci2011_P5.json
+Spengler, 2013	三角顔貌、低身長、手の異常を伴う出生前発育遅延の男性患者	MALE		8	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Spengler2013.json
+Srivastava, 2017_P1	発達遅滞・マイクロセファリー・長い人中を伴う男性の臨床像	MALE		12	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Srivastava2017_P1.json
+VanDongen2019_P1	低緊張と3か月から6歳の範囲での熱性けいれんを示す女性患者	FEMALE		2	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_VanDongen2019_P1.json
+VanDongen2019_P12	低緊張、全般発作、摂食困難を伴う男性患者	MALE		3	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_VanDongen2019_P12.json
+VanDongen2019_P13	筋緊張低下、摂食困難、停留精巣を伴う男性患者	MALE		3	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_VanDongen2019_P13.json
+VanDongen2019_P3	筋緊張低下と摂食困難を呈する女性患者	FEMALE		2	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_VanDongen2019_P3.json
+VanDongen2019_P4	摂食困難が認められる女性患者	FEMALE		1	0	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_VanDongen2019_P4.json
+VanDongen2019_P8	筋緊張低下、心室中隔欠損、停留精巣を伴う男性例	MALE		3	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_VanDongen2019_P8.json
+VanDongen2019_P9	摂食困難を呈し低緊張は認められない女性患者	FEMALE		1	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_VanDongen2019_P9.json
+Walz2015_PA	知的障害、短身、手の異常を伴う女性患者	FEMALE		7	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Walz2015_PA.json
+Walz2015_PB	知的障害、短身、手の異常を伴う男性患者	MALE		7	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Walz2015_PB.json
+Walz2015_PC	知的障害、大歯、濃い眉毛を伴う男性患者の手指異常と前方回転鼻孔	MALE		5	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Walz2015_PC.json
+Walz2015_PD	Macrodontia、太い眉毛、低身長を伴う男性患者の臨床遺伝的特徴	MALE		5	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Walz2015_PD.json
+Walz2015_PE	知的障害、短身、厚い眉毛を伴う男性患者のマクロドンティアと停留精巣	MALE		6	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Walz2015_PE.json
+Walz2015_Pf	知的障害、マクロドンティア、手の異常を伴う男性患者	MALE		6	2	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Walz2015_Pf.json
+Willemsen2010_P1	知的障害、自閉症様行動、低身長を伴う男性の臨床像	MALE		7	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Willemsen2010_P1.json
+Willemsen2010_P2	知的障害、自閉症行動、小顎症、突出耳を伴う男性患者	MALE		4	7	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Willemsen2010_P2.json
+Willemsen2010_P3	知的障害、自閉症行動、全体的発達遅延を伴う男性の臨床像	MALE		11	5	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Willemsen2010_P3.json
+Willemsen2010_P4	知的障害、自閉症様行動、突出した耳を伴う男性患者	MALE		3	3	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Willemsen2010_P4.json
+Youngs2011	知的障害、自閉症行動、注意欠陥多動性障害を伴う三角顔と小頭症の男性患者	MALE		11	1	0	sampleData/0.1.25_filtered/ANKRD11/PMID_36446582_Youngs2011.json
+sibling 1	重度低身長と前頭隆起を伴う小顔、発毛異常および眼窩浅小を特徴とする男性	MALE		12	0	0	sampleData/0.1.25_filtered/ANTXR1/PMID_27587992_sibling1.json
+sibling 2	重度低身長と前頭突出を伴う小顔、薄毛、眼窩浅小、鼻梁陥凹の男性例	MALE		12	0	0	sampleData/0.1.25_filtered/ANTXR1/PMID_27587992_sibling2.json
+individual II-3	先天性発症の歯肉肥厚、蛋白漏出性腸症、関節拘縮を伴う男性乳児	MALE	P10M	10	0	0	sampleData/0.1.25_filtered/ANTXR2/PMID_30050362_individualII-3.json
+V-3	運動失調、反射低下、核上性注視麻痺を伴う男性患者（33歳）	MALE	P33Y	5	2	0	sampleData/0.1.25_filtered/APTX/PMID_28652255_V-3.json
+V-4	小脳失調、低反射、核上性注視麻痺を伴う30歳女性の臨床像	FEMALE	P30Y	6	1	0	sampleData/0.1.25_filtered/APTX/PMID_28652255_V-4.json
+V-5	運動失調、反射低下、核上性注視麻痺を伴う27歳女性の臨床像	FEMALE	P27Y	5	0	0	sampleData/0.1.25_filtered/APTX/PMID_28652255_V-5.json
+V-6	小脳性運動失調、反射低下、核上性注視麻痺を伴う24歳女性	FEMALE	P24Y	5	2	0	sampleData/0.1.25_filtered/APTX/PMID_28652255_V-6.json
+V-8	小児男性、運動失調・低反射・核上性注視麻痺・構音障害・アテトーシスを呈する	MALE	P5Y	5	0	0	sampleData/0.1.25_filtered/APTX/PMID_28652255_V-8.json
+individual 1 GC18203	視野欠損と夜盲を伴う杆体錐体ジストロフィー、黄斑浮腫および視神経蒼白を認める女性	FEMALE	P37Y	9	1	0	sampleData/0.1.25_filtered/ARHGEF18/PMID_28132693_individual1GC18203.json
+individual 2 GC3626	光視症、夜盲症、杆錐体ジストロフィーを伴う視力低下と黄斑浮腫の男性例	MALE	P51Y	9	1	0	sampleData/0.1.25_filtered/ARHGEF18/PMID_28132693_individual2GC3626.json
+individual 3 GC17880	視野欠損と杆錐体ジストロフィーを伴う夜盲症および低視力の38歳女性	FEMALE	P38Y	7	3	0	sampleData/0.1.25_filtered/ARHGEF18/PMID_28132693_individual3GC17880.json
+LR09-023	患者LR09-023（男性）: 所見5件／除外11件・画像なし（要約失敗: ValueError）	MALE		5	11	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_LR09-023.json
+SA1-3	Molar tooth signと全身性発達遅滞を伴う眼瞼下垂および眼球運動異常の男性例	MALE		4	11	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_SA1-3.json
+SA2-3	モーラートゥースサイン、全身発達遅滞、網膜ジストロフィーを伴う女性患者	FEMALE		9	9	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_SA2-3.json
+SA2-4	Molar tooth sign、全身発達遅滞、眼瞼下垂を伴う男性患者	MALE		3	14	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_SA2-4.json
+UW116-3	発作、MRIで臼歯サイン、全般的発達遅滞を伴う女性患者	FEMALE		7	11	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_UW116-3.json
+UW132-3	発作と眼球運動異常を伴うMolar tooth signおよび全般的発達遅滞の女性	FEMALE		4	14	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_UW132-3.json
+UW132-4	Molar tooth signと多指症を伴う全般的発達遅滞および眼瞼下垂の男性例	MALE		5	14	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_UW132-4.json
+UW335-3	Molar tooth signと全身発達遅滞を伴う眼球運動異常、呼吸異常（頻呼吸・無呼吸）	FEMALE		5	13	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_UW335-3.json
+UW335-4	Molar tooth sign、灰白質異所化、全般的発達遅滞を伴う眼球運動異常の男性例	MALE		4	16	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_UW335-4.json
+UW348-3	Molar tooth sign、発達遅滞、網膜ジストロフィーを伴う女性の臨床像	FEMALE		4	8	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_UW348-3.json
+UW349-3	Molar tooth sign,全身発達遅滞、眼球運動異常を伴う男性の臨床像	MALE		10	9	0	sampleData/0.1.25_filtered/ARMC9/PMID_28625504_UW349-3.json
+patient	15歳女性、Gowers徴候・舌萎縮・階段昇降困難を伴う筋力低下と発作	FEMALE	P15Y	11	2	0	sampleData/0.1.25_filtered/ASAH1/PMID_31213928_patient.json
+Family 10 patient 12	知的障害、小頭症、低身長を伴う体重減少が認められる4ヶ月女児	FEMALE	P4M	4	4	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family10patient12.json
+Family 10 patient 13	低身長・体重減少・てんかん・小頭症を伴う14歳女性患者	FEMALE	P14Y	4	3	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family10patient13.json
+Family 10 patient 14	知的障害、小頭症、低身長を伴う体重減少が認められる2歳6ヶ月女性	FEMALE	P2Y6M	4	4	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family10patient14.json
+Family 11 patient 15	知的障害、小頭症、低身長を伴う体重減少が認められる17歳女性	FEMALE	P17Y	4	4	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family11patient15.json
+Family 12 patient 16	知的障害・多動・小頭症を伴う3歳男性患者	MALE	P3Y	3	5	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family12patient16.json
+Family 13 patient 17	低身長・体重減少・攻撃性・多動・小頭症を伴う4歳女性患者	FEMALE	P4Y2M	5	2	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family13patient17.json
+Family 13 patient 18	知的障害、小頭症、低身長を伴う2歳7ヶ月女性患者	FEMALE	P2Y7M	3	5	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family13patient18.json
+Family 14 patient 19	知的障害、小頭症、低身長、多動を伴う3歳9ヶ月男性患者	MALE	P3Y9M	4	4	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family14patient19.json
+Family 15 patient 20	知的障害と小頭症を伴う9か月女性患者	FEMALE	P9M	2	6	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family15patient20.json
+Family 15 patient 21	低身長・体重減少・小頭症を伴う4歳女性患者	FEMALE	P4Y	3	4	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family15patient21.json
+Family 1 patient 1	知的障害・低体重・攻撃性を伴う1歳女性患者	FEMALE	P1Y1M	6	2	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family1patient1.json
+Family 2 patient 2	知的障害、小頭症、低身長を伴う9歳女性患者	FEMALE	P9Y	3	5	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family2patient2.json
+Family 2 patient 3	知的障害、小頭症、低身長を伴う体重減少が認められる7歳女性患者	FEMALE	P7Y	4	4	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family2patient3.json
+Family 3 patient 4	知的障害、小頭症、低身長を伴う13歳女性患者	FEMALE	P13Y	5	3	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family3patient4.json
+Family 4 patient 5	知的障害・低体重・小頭症を伴う6歳女性患者	FEMALE	P6Y	3	5	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family4patient5.json
+Family 5 patient 6	知的障害・多動・小頭症を伴う1歳7ヶ月男性患者	MALE	P1Y7M	3	5	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family5patient6.json
+Family 6 patient 7	知的障害、小頭症、低身長を伴う5歳男性患者	MALE	P5Y6M	5	3	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family6patient7.json
+Family 7 patient 8	知的障害と小頭症を伴う11歳男性患者	MALE	P11Y	2	6	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family7patient8.json
+Family 8 patient 10	知的障害、小頭症、低身長と低体重を伴う7か月男性患者	MALE	P7M	4	3	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family8patient10.json
+Family 8 patient 9	低身長・体重減少・小頭症を伴う6歳男性患者	MALE	P6Y2M	3	4	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family8patient9.json
+Family 9 patient 11	知的障害・低身長・小頭症を伴う自己傷害行動のある9か月女性患者	FEMALE	P9M	6	2	0	sampleData/0.1.25_filtered/ASPM/PMID_27250695_Family9patient11.json
+patient	乳児期発症の男性、運動発達遅延・小頭症・簡略化した脳回転パターンを伴う	MALE	P5Y	12	1	0	sampleData/0.1.25_filtered/ASPM/PMID_29644084_patient.json
+Patient 1	高シトルリン血症、高アンモニア血症、発作を伴う8歳女性	FEMALE	P8Y	5	0	0	sampleData/0.1.25_filtered/ASS1/PMID_23099195_Patient1.json
+Patient 2	高シトルリン血症、高アンモニア血症、乳酸増加、メチルマロン酸尿症の3歳女性	FEMALE	P3Y3M	4	1	0	sampleData/0.1.25_filtered/ASS1/PMID_23099195_Patient2.json
+Patient 3	新生児男性、血中シトルリン上昇・高アンモニア血症・発作を伴う代謝異常疑い	MALE	P1M	15	0	0	sampleData/0.1.25_filtered/ASS1/PMID_23099195_Patient3.json
+Patient 4	新生児発症の高シトルリン血症、オロチン酸尿症は否定的	FEMALE	P1Y2M	1	1	0	sampleData/0.1.25_filtered/ASS1/PMID_23099195_Patient4.json
+Patient 5	高アンモニア血症、低アルギニン血症、発作を伴う高グルタミン血症の3ヶ月女性	FEMALE	P3M	7	1	0	sampleData/0.1.25_filtered/ASS1/PMID_23099195_Patient5.json
+HIH21480.II.3	運動失調、運動性軸索ニューロパチー、核上性注視麻痺を伴う神経変性疾患	FEMALE	P47Y	9	9	0	sampleData/0.1.25_filtered/ATP13A2/PMID_28137957_HIH21480II3.json
+HIH22132.II.1	感覚性軸索ニューロパチーと小脳萎縮を伴う失調、認知症、核上性注視麻痺	FEMALE	P39Y	14	5	0	sampleData/0.1.25_filtered/ATP13A2/PMID_28137957_HIH22132II1.json
+HSP84.II.1	運動感覚性軸索ニューロパチーと小脳・大脳皮質萎縮を伴う失調症男性例	MALE	P50Y	8	11	0	sampleData/0.1.25_filtered/ATP13A2/PMID_28137957_HSP84II1.json
+HSP84.II.3	運動・感覚軸索ニューロパチーと失調を伴う皮質萎縮およびバビンスキー徴候の男性	MALE	P40Y	6	13	0	sampleData/0.1.25_filtered/ATP13A2/PMID_28137957_HSP84II3.json
+HSP84.II.4	運動・感覚性軸索ニューロパチーと小脳・大脳萎縮を伴う失調症	MALE	P50Y	8	11	0	sampleData/0.1.25_filtered/ATP13A2/PMID_28137957_HSP84II4.json
+Patient A	パーキンソニズム、脊髄小脳変性症状、痙性対麻痺を伴う44歳女性	FEMALE	P44Y	11	1	0	sampleData/0.1.25_filtered/ATP13A2/PMID_31944623_PatientA.json
+Patient B	若年男性におけるパーキンソニズム、脳萎縮、痙性対麻痺を伴う多系統障害	MALE	P24Y	13	0	0	sampleData/0.1.25_filtered/ATP13A2/PMID_31944623_PatientB.json
+Patient C	小脳・大脳皮質萎縮を伴う痙性対麻痺と精神病を呈する32歳男性	MALE	P32Y	9	3	0	sampleData/0.1.25_filtered/ATP13A2/PMID_31944623_PatientC.json
+patient	下肢筋力低下を伴うバビンスキー徴候、過反射、痙性が認められる27歳女性	FEMALE	P27Y	4	16	0	sampleData/0.1.25_filtered/ATP13A2/PMID_33862550_patient.json
+ IV-2	男性患者IV-2、認知症・小脳萎縮・痙性対麻痺を伴う神経症状	MALE	P40Y	10	1	0	sampleData/0.1.25_filtered/ATP13A2/PMID_36247900_IV-2.json
+46-year-old Chinese woman	運動感覚軸索ニューロパチーと錐体路徴候を伴う46歳中国人女性の神経変性疾患	FEMALE	P46Y	12	3	0	sampleData/0.1.25_filtered/ATP13A2/PMID_38252374_46-year-oldChinesewoman.json
+PIII:1	Cutis laxa、肥大型心筋症、てんかんを伴う運動・言語発達遅延の男性患者	MALE	P15Y	13	20	0	sampleData/0.1.25_filtered/ATP6V1A/PMID_28065471_PIII1.json
+PIV:1	Cutis laxaとHypertelorismを伴う三角顔と低位耳を特徴とする3か月男児	MALE	P3M	24	6	0	sampleData/0.1.25_filtered/ATP6V1A/PMID_28065471_PIV1.json
+PV:1	Cutis laxa、Hypertelorism、Ventricular septal defectを伴う男性の臨床像	MALE		12	15	0	sampleData/0.1.25_filtered/ATP6V1A/PMID_28065471_PV1.json
+10DG0257 Individual 1	乳児期男性におけるCutis laxa、顕著な表在静脈、Median cleft palateを伴う症例	MALE	P1Y	18	4	0	sampleData/0.1.25_filtered/ATP6V1E1/PMID_27023906_10DG0257Individual1.json
+10DG0257 Individual 2	出生前発症の男性、乏羊水・皮膚弛緩・中隔口蓋裂を伴う特徴的顔貌	MALE	P2Y	20	0	0	sampleData/0.1.25_filtered/ATP6V1E1/PMID_27023906_10DG0257Individual2.json
+PI:1	Cutis laxaと三角顔、胸部大動脈瘤を伴う低緊張と関節拘縮のある5か月女児	FEMALE	P5M	13	2	0	sampleData/0.1.25_filtered/ATP6V1E1/PMID_28065471_PI1.json
+PI:2	三角顔、広い鼻基部、眼間開離を伴う女性の遺伝性疾患疑い	FEMALE		8	6	0	sampleData/0.1.25_filtered/ATP6V1E1/PMID_28065471_PI2.json
+PII:1	三角顔と低位耳を伴うCutis laxa、股関節形成不全と筋緊張低下を呈する10歳女性	FEMALE	P10Y	15	2	0	sampleData/0.1.25_filtered/ATP6V1E1/PMID_28065471_PII1.json
+PII:2	Cutis laxaと三角顔を伴う低緊張・脊柱後側弯・自然気胸の9歳男性	MALE	P9Y	14	3	0	sampleData/0.1.25_filtered/ATP6V1E1/PMID_28065471_PII2.json
+brother	小頭症、重度知的障害、骨肉腫を伴う男性の複合症例	MALE	P22Y	8	2	0	sampleData/0.1.25_filtered/ATRX/PMID_28371217_brother.json
+proband	重度知的障害と小頭症を伴う骨肉腫および小球性貧血の22歳男性	MALE	P22Y	9	3	0	sampleData/0.1.25_filtered/ATRX/PMID_28371217_proband.json
+family F10 subject P12	女性患者、5歳1ヶ月、主要所見は脊柱側弯症、大関節過可動性、柔らかい皮膚。	FEMALE	P5Y1M	18	11	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF10subjectP12.json
+family F1 subject P1	男性患者、主要所見は脊椎後側弯症、腸骨低形成、椎体くちばし状変形	MALE	P34Y	7	7	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF1subjectP1.json
+family F1 subject P2	男性患者、主要所見は脊椎変形（後弯側弯・椎体嘴状変形）と四肢骨異常（腸骨低形成・転子過形成）。	MALE	P31Y	6	5	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF1subjectP2.json
+family F2 subject P3	女性患者、主要所見は脊柱側弯症、青色強膜、関節過可動性	FEMALE	P12Y7M	20	9	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF2subjectP3.json
+family F4 subject P5	小児女性、脊柱後側弯・青色強膜・扁平顔を伴う骨形成異常	FEMALE	P5Y1M	15	14	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF4subjectP5.json
+family F5 subject P6	脊柱後側弯と大腿骨頭異形成を伴う12歳女性の股関節脱臼と手指関節拘縮	FEMALE	P12Y7M	16	13	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF5subjectP6.json
+family F6 subject P7	男性患者、2歳9か月、主要所見は脊柱側弯症、内反足、青色強膜。	MALE	P2Y9M	18	11	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF6subjectP7.json
+family F7 subject P8	男性患者、胸椎後側弯症、腸骨低形成、四肢骨端拡大を伴う骨異常	MALE	P34Y	9	19	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF7subjectP8.json
+family F8 subject P9	P8M男性、脊柱側弯症、青色強膜、大関節および指関節過可動性を伴う	MALE	P8M	21	8	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF8subjectP9.json
+family F9 subject P10	胎児発症の女性、脊柱後側弯・内反足・青色強膜を伴う関節過可動性と皮膚異常	FEMALE	P7Y	22	7	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF9subjectP10.json
+family F9 subject P11	胎児発症の女性、脊柱後側弯・大関節過可動性・青色強膜を伴う骨異常	FEMALE	P1M	24	5	0	sampleData/0.1.25_filtered/B3GALT6/PMID_23664117_familyF9subjectP11.json
+FO-01	脊柱側弯症、近視、夜盲症を伴う肥満	UNKNOWN_SEX	P23Y	5	2	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-01.json
+FO-02	Postaxial多指症、夜盲症、知的障害を伴う肥満と視力低下の17歳患者	UNKNOWN_SEX	P17Y	5	3	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-02.json
+FO-03	Postaxial多指症、視力低下、夜盲症、知的障害を伴う患者	UNKNOWN_SEX	P29Y	4	3	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-03.json
+FO-04	近視・夜盲・知的障害・肥満を伴う視力低下の患者	UNKNOWN_SEX	P30Y	5	3	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-04.json
+FO-05	知的障害、夜盲症、肥満を伴う原発性無月経	UNKNOWN_SEX	P18Y	5	4	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-05.json
+FO-06	Postaxial多指症、知的障害、夜盲を伴う肥満と原発性無月経	UNKNOWN_SEX	P20Y	7	2	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-06.json
+FO-07	後軸多指症・近視・夜盲を伴う肥満の4歳児	UNKNOWN_SEX	P4Y	5	2	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-07.json
+FO-08	Postaxial多指症、白内障、知的障害を伴う肥満と視覚異常の患者	UNKNOWN_SEX	P24Y	7	1	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-08.json
+FO-09	Postaxial多指症、夜盲症、知的障害を伴う肥満と視力低下	UNKNOWN_SEX	P24Y	5	3	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-09.json
+FO-10	後軸多指症と近視を伴う夜盲症および視力低下が認められる患者	UNKNOWN_SEX	P31Y	4	4	0	sampleData/0.1.25_filtered/BBS1/PMID_18669544_FO-10.json
+PT1	知的障害と全身症状を伴う夜盲・眼振・後軸多指症の27歳女性	FEMALE	P27Y	11	1	0	sampleData/0.1.25_filtered/BBS1/PMID_22940089_PT1.json
+PT2	夜盲症と視力低下を伴う肥満および後軸多指症の15歳女性	FEMALE	P15Y	5	6	0	sampleData/0.1.25_filtered/BBS1/PMID_22940089_PT2.json
+PT3	夜盲症、後軸多指症、眼瞼下垂を伴う15歳男性患者	MALE	P15Y	6	5	0	sampleData/0.1.25_filtered/BBS1/PMID_22940089_PT3.json
+Patient 1	先天性発症の腎盂拡張・慢性腎疾患・網膜錐体杆体ジストロフィーを伴う男性	MALE	P19Y	27	1	0	sampleData/0.1.25_filtered/BBS2/PMID_20618352_Patient1.json
+proband II:2	先天性発症の慢性腎疾患、超低視力、知的障害を伴う女性患者	FEMALE	P37Y	8	12	0	sampleData/0.1.25_filtered/BBS2/PMID_26078953_probandII2.json
+IV-2	先天性発症の手足後軸多指症、杆錐体ジストロフィー、知的障害を伴う女性患者	FEMALE	P28Y	10	10	0	sampleData/0.1.25_filtered/BBS2/PMID_33688495_IV-2.json
+IV-3	先天性発症の多指症、網膜ジストロフィー、知的障害を伴う男性患者	MALE	P26Y	11	12	0	sampleData/0.1.25_filtered/BBS2/PMID_33688495_IV-3.json
+Patient 1	先天性発症の男性、合指症・夜盲・視力低下・杆錐体ジストロフィーを伴う	MALE	P28Y	7	2	0	sampleData/0.1.25_filtered/BBS4/PMID_15654695_Patient1.json
+Patient 2	先天性多指症・短指症・視力低下を伴う知的障害と肥満の22歳女性	FEMALE	P22Y	6	2	0	sampleData/0.1.25_filtered/BBS4/PMID_15654695_Patient2.json
+Patient 3	先天性発症の男性、合指症・視力低下・腎嚢胞・停留精巣・嗅覚低下を認める	MALE	P27Y	5	2	0	sampleData/0.1.25_filtered/BBS4/PMID_15654695_Patient3.json
+proband	幼少期発症の夜盲症、多指症、肥満、網膜変性、知的障害を伴う女性患者	FEMALE	P4Y	11	0	0	sampleData/0.1.25_filtered/BBS4/PMID_25533820_proband.json
+II:1	網膜色素変性症状（夜盲・視力低下・肥満）を伴う女性患者	FEMALE	P19Y	9	2	0	sampleData/0.1.25_filtered/BBS5/PMID_30850397_II1.json
+proband II:2	視力低下・夜盲・低ゴナドトロピン症を伴う知的障害と肥満を呈する11歳男性	MALE	P11Y	10	4	0	sampleData/0.1.25_filtered/BBS5/PMID_30850397_probandII2.json
+Sibling 1	先天性発症の女性患者、後軸多指症・夜盲・軽度知的障害を伴う	FEMALE	P14Y	6	0	0	sampleData/0.1.25_filtered/BBS5/PMID_32811249_Sibling1.json
+Sibling 2	先天性発症の女性患者、後軸多指症・夜盲症・軽度知的障害を伴う視力低下	FEMALE	P11Y	6	0	0	sampleData/0.1.25_filtered/BBS5/PMID_32811249_Sibling2.json
+1435-IV-6	知的障害、発達遅滞、自閉症行動を伴う低分枝鎖アミノ酸血症の7歳男性	MALE	P7Y	8	1	0	sampleData/0.1.25_filtered/BCKDK/PMID_22956686_1435-IV-6.json
+1435-IV-8	知的障害と発達遅滞を伴う小頭症、低分岐鎖アミノ酸血症、てんかん性異常活動。	MALE	P7Y7M	8	0	0	sampleData/0.1.25_filtered/BCKDK/PMID_22956686_1435-IV-8.json
+18-IV-1	知的障害と自閉症行動を伴う全般発作および低分岐鎖アミノ酸血症の7歳女性	FEMALE	P7Y7M	10	1	0	sampleData/0.1.25_filtered/BCKDK/PMID_22956686_18-IV-1.json
+18-IV-2	知的障害、自閉症行動、低分岐鎖アミノ酸血症を伴う全般発作性てんかん	MALE	P5Y	10	1	0	sampleData/0.1.25_filtered/BCKDK/PMID_22956686_18-IV-2.json
+558-IV-2	全般発作、知的障害、発達遅滞を伴う女性患者（21歳）	FEMALE	P21Y	13	0	0	sampleData/0.1.25_filtered/BCKDK/PMID_22956686_558-IV-2.json
+558-IV-3	知的障害、自閉症行動、全身性発作を伴う発達遅延の16歳女性	FEMALE	P16Y	10	1	0	sampleData/0.1.25_filtered/BCKDK/PMID_22956686_558-IV-3.json
+boy	低位耳介、肥大型心筋症、重度発達遅滞を伴う10歳男児の臨床像	MALE	P10Y	19	0	0	sampleData/0.1.25_filtered/BRAF/PMID_24800029_boy.json
+individual P1	広鼻梁・関節過可動・全般的発達遅延を伴う6歳女性の臨床像	FEMALE	P6Y6M	12	17	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP1.json
+individual P10	新生児期発症の摂食困難と筋緊張低下を伴う知的障害および顔面形態異常	FEMALE	P12Y	14	16	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP10.json
+individual P2	新生児発症の摂食困難・低緊張・発達遅滞を伴う顔面特徴と脳構造異常	MALE	P13Y3M	15	16	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP2.json
+individual P3	広鼻梁と眼瞼下垂を伴う発作および全般的発達遅滞を呈する13歳女性	FEMALE	P13Y	13	18	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP3.json
+individual P4	新生児発症の男性、知的障害と全般的発達遅延、特徴的顔貌（広い鼻梁・狭い口・眼瞼狭小症）	MALE	P11Y2M	11	21	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP4.json
+individual P5	知的障害とてんかんを伴う広鼻梁・関節過可動性・眼瞼下垂を示す8歳女性	FEMALE	P8Y	16	15	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP5.json
+individual P6	関節可動域過剰・筋緊張低下・全般的発達遅滞を伴う13歳男性	MALE	P13Y	6	22	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP6.json
+individual P7	新生児発症の摂食困難・知的障害・全身発達遅滞を伴う男性患者	MALE	P15Y	12	12	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP7.json
+individual P8	広鼻梁と関節過可動性を伴う知的障害および全般的発達遅滞の8歳女性	FEMALE	P8Y	11	17	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP8.json
+individual P9	知的障害と発達遅延を伴う低緊張、関節過可動性、顔面特徴を示す女性患者	FEMALE	P17Y	16	15	0	sampleData/0.1.25_filtered/BRPF1/PMID_27939640_individualP9.json
+UDP4003	乳児期発症の貧血とアカントサイト血症を伴う発作および全身発達遅延	MALE	P1Y5M	15	5	0	sampleData/0.1.25_filtered/CAD/PMID_25678555_UDP4003.json
+Proband 1	小児女性患者、QT延長と多形性心室頻拍を伴う心停止エピソード	FEMALE	P2Y	6	0	0	sampleData/0.1.25_filtered/CALM1/PMID_23388215_Proband1.json
+Proband 3	3歳男性、QT延長症候群疑い：多形性心室頻拍、心室細動、心停止を伴う	MALE	P3Y	6	0	0	sampleData/0.1.25_filtered/CALM1/PMID_23388215_Proband3.json
+Proband 4	新生児発症のQT延長症候群、心室細動と心停止、T波交互変動を伴う男性患者	MALE	P14Y	4	1	0	sampleData/0.1.25_filtered/CALM1/PMID_23388215_Proband4.json
+Case 2	小児男性、QT延長と多形性心室頻拍を伴う心室細動および心停止	MALE	P4Y	4	1	0	sampleData/0.1.25_filtered/CALM1/PMID_27374306_Case2.json
+Proband 2	先天性発症のQT延長症候群、T波交互、2:1房室ブロックを伴う3歳女性	FEMALE	P3Y	7	0	0	sampleData/0.1.25_filtered/CALM2/PMID_23388215_Proband2.json
+Case 1	3歳男性、QT延長症候群、洞性徐脈、左室緻密化障害を伴う心原性ショック	MALE	P3Y	5	4	0	sampleData/0.1.25_filtered/CALM2/PMID_27374306_Case1.json
+Family A V-2	下肢痙縮・筋力低下・Babinski徴候を伴う女性患者（31歳）	FEMALE	P31Y	7	4	0	sampleData/0.1.25_filtered/CAPN1/PMID_27153400_FamilyAV-2.json
+Family B IV-1	下肢痙性麻痺と筋力低下を伴う四肢反射亢進および末梢神経障害の男性例	MALE	P47Y	7	4	0	sampleData/0.1.25_filtered/CAPN1/PMID_27153400_FamilyBIV-1.json
+Family B IV-2	下肢痙性麻痺と筋力低下を伴う運動失調および末梢神経障害の女性患者	FEMALE	P44Y	9	2	0	sampleData/0.1.25_filtered/CAPN1/PMID_27153400_FamilyBIV-2.json
+Family B IV-4	下肢痙性麻痺、下肢筋力低下、バビンスキー徴候を伴う44歳男性	MALE	P44Y	7	4	0	sampleData/0.1.25_filtered/CAPN1/PMID_27153400_FamilyBIV-4.json
+Family B IV-5	下肢痙縮と過反射、歩行失調、構音障害を伴う40歳男性患者	MALE	P40Y	5	6	0	sampleData/0.1.25_filtered/CAPN1/PMID_27153400_FamilyBIV-5.json
+Family B IV-9	下肢痙性麻痺と過反射、バビンスキー徴候を伴う30歳女性	FEMALE	P30Y	6	5	0	sampleData/0.1.25_filtered/CAPN1/PMID_27153400_FamilyBIV-9.json
+Family C IV-13	下肢痙性麻痺と筋力低下を伴う運動失調、上肢反射亢進を認める22歳女性	FEMALE	P22Y	8	3	0	sampleData/0.1.25_filtered/CAPN1/PMID_27153400_FamilyCIV-13.json
+Family C IV-7	下肢痙縮・足クローヌス・凹足を伴う35歳男性の臨床像	MALE	P35Y	3	6	0	sampleData/0.1.25_filtered/CAPN1/PMID_27153400_FamilyCIV-7.json
+index patient	歩行不安定と痙性運動失調を伴う小脳虫部萎縮の39歳女性	FEMALE	P39Y	8	0	0	sampleData/0.1.25_filtered/CAPN1/PMID_28321562_indexpatient.json
+sister	歩行不安定、測定障害、下肢のバビンスキー徴候を伴う神経学的異常	FEMALE	P37Y	5	0	0	sampleData/0.1.25_filtered/CAPN1/PMID_28321562_sister.json
+Family 1 patient 1	歩行失調・四肢痙縮・構音障害を伴う運動失調症状の21歳女性	FEMALE	P21Y	8	0	0	sampleData/0.1.25_filtered/CAPN1/PMID_29379883_Family1patient1.json
+Family 2 patient 1	歩行失調と四肢痙縮を伴う運動障害が進行した39歳女性	FEMALE	P39Y	8	0	0	sampleData/0.1.25_filtered/CAPN1/PMID_29379883_Family2patient1.json
+Family 2 patient 2	歩行失調と四肢失調を伴う30歳女性、発症時期不明、痙縮や歩行喪失なし	FEMALE	P30Y	4	3	0	sampleData/0.1.25_filtered/CAPN1/PMID_29379883_Family2patient2.json
+proband	歩行障害と下肢過反射を伴う運動失調、構音障害、歩行不能、小脳萎縮の女性	FEMALE	P33Y	9	0	0	sampleData/0.1.25_filtered/CAPN1/PMID_29678961_proband.json
+Patient 1M	小児期発症の再発性外陰膣カンジダ症と慢性皮膚真菌感染を示す女性患者	FEMALE		2	8	0	sampleData/0.1.25_filtered/CARD9/PMID_19864672_Patient1M.json
+Patient 2B1	小児期発症の慢性口腔カンジダ症と真菌性髄膜炎を伴う男性患者	MALE	P18Y	2	6	0	sampleData/0.1.25_filtered/CARD9/PMID_19864672_Patient2B1.json
+Patient 2B2	慢性口腔カンジダ症を呈する19歳男性、免疫異常所見は否定的。	MALE	P19Y	1	7	0	sampleData/0.1.25_filtered/CARD9/PMID_19864672_Patient2B2.json
+Patient 2M	反復性外陰膣カンジダ症と深在性皮膚真菌症を認める50歳女性	FEMALE	P50Y	2	8	0	sampleData/0.1.25_filtered/CARD9/PMID_19864672_Patient2M.json
+Patient 5F	小児期発症の深在性皮膚真菌症、免疫異常所見は認めず	MALE		1	8	0	sampleData/0.1.25_filtered/CARD9/PMID_19864672_Patient5F.json
+ 24-year-old Caucasian male	慢性口腔カンジダ症、深在性皮膚真菌症、リンパ球減少を伴う高IgE血症	MALE	P24Y	7	3	0	sampleData/0.1.25_filtered/CARD9/PMID_26044242_24-year-oldCaucasianmale.json
+patient	頸部屈筋の筋力低下と手掌筋萎縮を伴う血中酵素異常の25歳女性	FEMALE	P25Y	6	1	0	sampleData/0.1.25_filtered/CAV3/PMID_11805270_patient.json
+individual II1	手筋力低下、腓腹筋肥大、血中クレアチンキナーゼ上昇、ペスカバスを伴う男性	MALE	P52Y	4	2	0	sampleData/0.1.25_filtered/CAV3/PMID_18930476_individualII1.json
+individual II2	手内筋の筋力低下、腓腹筋肥大、血中クレアチンキナーゼ濃度上昇を伴う男性	MALE	P51Y	5	2	0	sampleData/0.1.25_filtered/CAV3/PMID_18930476_individualII2.json
+individual II3	手内筋の筋力低下、母指球筋萎縮、腓腹筋肥大を伴う男性患者（45歳）。	MALE	P45Y	5	2	0	sampleData/0.1.25_filtered/CAV3/PMID_18930476_individualII3.json
+individual II5	血中クレアチンキナーゼ上昇とペスカバスを伴う33歳男性	MALE	P33Y	2	3	0	sampleData/0.1.25_filtered/CAV3/PMID_18930476_individualII5.json
+individual III2	女性患者、腓腹筋肥大と血中CK上昇、打診誘発性筋収縮を伴うPes cavus	FEMALE	P22Y	4	2	0	sampleData/0.1.25_filtered/CAV3/PMID_18930476_individualIII2.json
+individual III3	筋硬直と筋痛を伴う足底弓隆起、血中クレアチンキナーゼ濃度上昇の女性	FEMALE	P23Y	4	2	0	sampleData/0.1.25_filtered/CAV3/PMID_18930476_individualIII3.json
+proband I1	手内筋と指屈筋の筋力低下、腓腹筋肥大、クレアチンキナーゼ上昇を伴う男性	MALE	P77Y	8	8	0	sampleData/0.1.25_filtered/CAV3/PMID_18930476_probandI1.json
+III:2	知的障害と運動失調を伴う脊椎後側弯および脳萎縮を示す28歳女性	FEMALE	P28Y	13	2	0	sampleData/0.1.25_filtered/CBS/PMID_26667307_III2.json
+III:3	知的障害と小脳失調を伴うアラキノダクチリーおよび水晶体転位を呈する女性	FEMALE	P26Y	12	3	0	sampleData/0.1.25_filtered/CBS/PMID_26667307_III3.json
+III:4	Pectus carinatum、脊椎側弯症、知的障害を伴う5歳女性の臨床像	FEMALE	P5Y	14	1	0	sampleData/0.1.25_filtered/CBS/PMID_26667307_III4.json
+patient	アラキノダクティリー、知的障害、異常に高身長を伴う女性患者（20歳）。	FEMALE	P20Y	4	2	0	sampleData/0.1.25_filtered/CBS/PMID_8755636_patient.json
+Case 1	頭蓋縫合早期癒合、尿管逆流、肛門閉鎖を伴う多発奇形の女性患者	FEMALE		9	18	0	sampleData/0.1.25_filtered/CCNQ/PMID_18297069_Case1.json
+Case 2	Telecanthusと尿路異常を伴う低身長および肛門閉鎖を呈する女性例	FEMALE		14	13	0	sampleData/0.1.25_filtered/CCNQ/PMID_18297069_Case2.json
+Case 3	頭蓋縫合早期癒合症、片側腎欠如、肛門閉鎖を伴う多発奇形の女性例	FEMALE		13	14	0	sampleData/0.1.25_filtered/CCNQ/PMID_18297069_Case3.json
+Case 4	Telecanthus、膀胱尿管逆流、肛門閉鎖を伴う多発奇形の女性例	FEMALE		9	19	0	sampleData/0.1.25_filtered/CCNQ/PMID_18297069_Case4.json
+Case 5	膀胱低形成・慢性腎疾患第5期・肛門閉鎖を伴う女性の臨床像	FEMALE		9	18	0	sampleData/0.1.25_filtered/CCNQ/PMID_18297069_Case5.json
+Case 6	片側腎無形成・慢性腎疾患5期・膣尿管逆流を伴う低身長女性の臨床像	FEMALE		9	18	0	sampleData/0.1.25_filtered/CCNQ/PMID_18297069_Case6.json
+affected 13-y-old patient	先天性発症の13歳女性、希少毛・毛髪捻転・視力低下・黄斑ジストロフィー	FEMALE	P13Y	4	0	0	sampleData/0.1.25_filtered/CDH3/PMID_12445216_affected13-y-oldpatient.json
+proband	乳児発症の男性患者、毛髪稀少・視力低下・皮膚所見（毛孔性角化症・表皮嚢胞）	MALE	P13Y	9	3	0	sampleData/0.1.25_filtered/CDH3/PMID_28061825_proband.json
+Individual F1-II:1	短身・出生前後の成長遅延・三角顔を伴う9歳男性の臨床所見	MALE	P9Y	24	22	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF1-II1.json
+Individual F1-II:3	低身長、出生前後の発育遅延、三角顔を伴う4歳男性の臨床像	MALE	P4Y	24	21	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF1-II3.json
+Individual F2-II:4	低身長・出生前後の成長遅延・特徴的顔貌（眼瞼贅皮、長い人中、三角顔）	MALE	P7Y8M	25	20	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF2-II4.json
+Individual F2-II:5	低身長、出生後成長遅延、特徴的顔貌（三角顔、低位耳、広い鼻先）	MALE	P4Y11M	23	21	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF2-II5.json
+Individual F3-II:2	女性、1歳6か月、てんかん・発達遅滞・小頭症を伴う特徴的顔貌	FEMALE	P1Y6M	17	27	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF3-II2.json
+Individual F4-II:1	低身長・出生前後の成長遅延・顔面特徴（滑らかな人中・広い鼻梁など）を伴う男児	MALE	P8Y11M	26	19	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF4-II1.json
+Individual F4-II:2	小頭症と後天性成長遅延を伴う低身長、特徴的顔貌を示す7歳女性	FEMALE	P7Y3M	24	21	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF4-II2.json
+Individual F4-II:3	低身長、後天性成長遅延、全身性発達遅延を伴う3歳9ヶ月男性	MALE	P3Y9M	20	25	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF4-II3.json
+Individual F5-II:2	低身長・出生前後の成長遅延・顔面特徴（滑らかな人中・広い鼻梁など）	MALE	P6Y8M	22	23	0	sampleData/0.1.25_filtered/CDK10/PMID_28886341_IndividualF5-II2.json
+patient	小頭症、発達遅延、低身長を伴う6歳女性の臨床像	FEMALE	P6Y	5	3	0	sampleData/0.1.25_filtered/CDK5RAP2/PMID_23726037_patient.json
+IV-3	先天性発症の男性患者、一次性小頭症、知的障害、傾斜した前額を伴う	MALE	P13Y	3	0	0	sampleData/0.1.25_filtered/CENPJ/PMID_16900296_IV-3.json
+IV-4	先天性発症の一次性小頭症、知的障害、傾斜した前額を伴う女性患者	FEMALE		3	0	0	sampleData/0.1.25_filtered/CENPJ/PMID_16900296_IV-4.json
+IV-5	先天性発症の小頭症、知的障害、傾斜前額を伴う8歳女性	FEMALE	P8Y	3	0	0	sampleData/0.1.25_filtered/CENPJ/PMID_16900296_IV-5.json
+Patient 1	小児期発症の歩行遅延と筋力低下を伴う筋病理異常を示す21歳女性	FEMALE	P21Y	17	4	0	sampleData/0.1.25_filtered/CFL2/PMID_22560515_Patient1.json
+Patient 2	小児女性における筋力低下（四肢・頸部・肩帯）、歩行異常、筋線維異常を伴う運動発達遅延	FEMALE	P5Y	13	9	0	sampleData/0.1.25_filtered/CFL2/PMID_22560515_Patient2.json
+Patient A II-2	乳児期発症の姿勢不安定・顔面非対称・視神経乳頭欠損を伴う女性患者	FEMALE		5	14	0	sampleData/0.1.25_filtered/CHD7/PMID_17661815_PatientAII-2.json
+Patient A III-2	長顔・口唇口蓋裂・食道閉鎖を伴う先天性多発奇形の男性患者（15歳）	MALE	P15Y	17	9	0	sampleData/0.1.25_filtered/CHD7/PMID_17661815_PatientAIII-2.json
+Patient A III-3	乳児期発症の欠神発作、知的障害、視神経乳頭欠損を伴う男性患者	MALE		9	14	0	sampleData/0.1.25_filtered/CHD7/PMID_17661815_PatientAIII-3.json
+Patient B II-2	Cupped earを唯一の所見とする男性患者	MALE		1	19	0	sampleData/0.1.25_filtered/CHD7/PMID_17661815_PatientBII-2.json
+Patient B III-1	両側顔面神経麻痺と網膜欠損孔を伴う全身性低緊張および嗅球形成不全	MALE	P19D	11	13	0	sampleData/0.1.25_filtered/CHD7/PMID_17661815_PatientBIII-1.json
+Patient B III-3	新生児発症の呼吸困難、うっ血性心不全、Ebstein奇形を伴う男性患者	MALE		13	7	0	sampleData/0.1.25_filtered/CHD7/PMID_17661815_PatientBIII-3.json
+Patient 11654.p1	自閉症、発達退行、中等度知的障害を伴う12歳女性の臨床像	FEMALE	P12Y	11	18	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient11654p1.json
+Patient 12714.p1	自閉症、境界知能、発達退行を伴う高身長の4歳男性患者	MALE	P4Y	6	18	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient12714p1.json
+Patient 12752.p1	自閉症、睡眠異常、知的障害を伴う4歳女児の臨床像	FEMALE	P4Y	8	17	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient12752p1.json
+Patient 12991.p1	自閉症、軽度知的障害、不眠症を伴う16歳男性の臨床像	MALE	P16Y	10	19	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient12991p1.json
+Patient 13844.p1	自閉症、重度知的障害、発達退行を伴う8歳男性の便秘と腹部膨満	MALE	P8Y	6	18	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient13844p1.json
+Patient 13986.p1	自閉症、重度知的障害、脳性麻痺を伴う高身長の5歳男児	MALE	P5Y	5	20	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient13986p1.json
+Patient 14016.p1	自閉症、境界知能、発熱性けいれんを伴う8歳男性の臨床像	MALE	P8Y	12	16	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient14016p1.json
+Patient 14233.p1	自閉症、重度知的障害、発達退行を伴う高身長の16歳男性	MALE	P16Y	7	18	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient14233p1.json
+Patient 14406.p1	自閉症、睡眠障害、注意力低下を伴う13歳男性の高身長と眼窩上隆起	MALE	P13Y	5	20	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_Patient14406p1.json
+Patient APP_109580-100	自閉症、重度知的障害、発達退行を伴う6歳男性の臨床像	MALE	P6Y	7	21	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_PatientAPP_109580-100.json
+Patient NijmegenDNA-010878	注意欠陥多動性障害、境界知能、顕著な眉弓隆起、高身長を伴う11歳男性	MALE	P11Y	4	23	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_PatientNijmegenDNA-010878.json
+Patient NijmegenDNA07-06646	自閉症、境界知能、睡眠発症性不眠を伴う17歳男性の臨床像	MALE	P17Y	10	17	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_PatientNijmegenDNA07-06646.json
+Patient NijmgenDNA023486	自閉症、軽度知的障害、発達退行を伴う15歳女性の臨床像	FEMALE	P15Y	10	16	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_PatientNijmgenDNA023486.json
+Patient Troina2037	精神病、知的障害中等度、眼裂下方傾斜を伴う女性患者	FEMALE	P41Y	6	22	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_PatientTroina2037.json
+Patient Troina2659	自閉症、中等度知的障害、発達退行を伴う13歳男性患者	MALE	P13Y	8	19	0	sampleData/0.1.25_filtered/CHD8/PMID_24998929_PatientTroina2659.json
+frameshift case	男性患者、17歳、Macrocephaly・自閉症・発達退行を伴う軽度知的障害と運動遅延	MALE	P17Y	10	4	0	sampleData/0.1.25_filtered/CHD8/PMID_26789910_frameshiftcase.json
+patient	精神病、睡眠障害、境界から中等度の知的障害を伴う女性患者	FEMALE	P62Y	7	3	0	sampleData/0.1.25_filtered/CHD8/PMID_27595554_patient.json
+Patient 47_S3	注意力短縮、軽度知的障害、言語発達遅滞を伴う過体重の10歳男性	MALE	P10Y5M	4	7	0	sampleData/0.1.25_filtered/CHD8/PMID_30631761_Patient47_S3.json
+individual 1-DDD-SMH279310	自閉症、重度知的障害、運動発達遅滞を伴う大頭症の4歳男児	MALE	P4Y	10	14	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual1-DDD-SMH279310.json
+individual 10-MCGM-2	小児女性、Macrocephaly・自閉症・中等度知的障害を伴う運動および言語発達遅延	FEMALE	P7Y	8	16	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual10-MCGM-2.json
+individual 2-DDD-DUB293181	自閉症、てんかん、軽度知的障害を伴う大頭症の3歳男性	MALE	P3Y	10	14	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual2-DDD-DUB293181.json
+individual 3-DDD-OXF273385	小児女性、頭大・運動発達遅延・高身長を呈し、神経発達障害は否定的。	FEMALE	P7Y	3	16	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual3-DDD-OXF273385.json
+individual 4-DDD-NGS276528	新生児期発症の高ビリルビン血症、巨頭症、自閉症を伴う発達遅滞とけいれん	MALE	P15Y	7	13	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual4-DDD-NGS276528.json
+individual 5-DDD-CAM272076	自閉症、注意欠如多動症、知的障害中等度を伴う大頭症の4歳男児	MALE	P4Y	11	13	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual5-DDD-CAM272076.json
+individual 6-DDD-GSH279161	新生児期発症の高ビリルビン血症、巨頭症、社会的応答性低下を伴う男児	MALE	P4Y	7	13	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual6-DDD-GSH279161.json
+individual 7-DDD-NIG283714	自閉症、知的中等度障害、巨頭症を伴う2歳男性の運動・言語発達遅滞	MALE	P2Y	10	11	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual7-DDD-NIG283714.json
+individual 8-DDD-NWT305513	新生児発症の男性、重度知的障害と自閉症を伴う低緊張・運動発達遅滞	MALE	P9Y	8	9	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual8-DDD-NWT305513.json
+individual 9-MCGM-1	新生児発症の甲状腺機能低下症、頭蓋拡大、注意欠陥多動性障害を伴う男児	MALE	P2Y	9	15	0	sampleData/0.1.25_filtered/CHD8/PMID_31001818_individual9-MCGM-1.json
+patient 10	自閉症、軽度知的障害、眼窩上隆起が目立つ7歳男性患者	MALE	P7Y9M	6	15	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient10.json
+patient 12	軽度知的障害、扁平足、カフェオレ斑、胎児期多量羊水を伴う7歳女性	FEMALE	P7Y6M	4	17	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient12.json
+patient 15	自閉症、ADHD、軽度知的障害を伴う12歳男性、筋緊張低下と扁平足を認める	MALE	P12Y	8	13	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient15.json
+patient 16	巨頭症、自閉症、重度知的障害を伴う12歳男性の臨床像	MALE	P12Y6M	7	14	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient16.json
+patient 20	自閉症、軽度知的障害、突出した眼窩上隆起を伴う3歳男児	MALE	P3Y9M	4	17	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient20.json
+patient 23	巨頭症、軽度知的障害、眼窩上隆起が目立つ、高身長の10歳男性	MALE	P10Y5M	4	17	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient23.json
+patient 25	5歳男性、Macrocephaly・自閉症・軽度知的障害・前頭隆起が目立つ	MALE	P5Y	4	17	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient25.json
+patient 4	2歳女性、Macrocephaly・Autism・軽度知的障害を伴う臨床像	FEMALE	P2Y	7	14	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient4.json
+patient 8	1歳男性、Macrocephaly・自閉症・知的障害を伴う、顕著な眼窩上隆起を認める	MALE	P1Y	4	14	0	sampleData/0.1.25_filtered/CHD8/PMID_31721432_patient8.json
+ASD172	胎児期発症の男性、小頭症・自閉症・発達退行を伴う中等度知的障害	MALE	P12Y	17	10	0	sampleData/0.1.25_filtered/CHD8/PMID_31980904_ASD172.json
+ASD397	胎児期発症の男性、巨頭症・自閉症・中等度知的障害を伴う発達遅滞	MALE	P12Y	17	8	0	sampleData/0.1.25_filtered/CHD8/PMID_31980904_ASD397.json
+ASD415	胎児期発症の男性患児、巨頭症・自閉症・中等度知的障害を伴う発達遅滞	MALE	P6Y	19	13	0	sampleData/0.1.25_filtered/CHD8/PMID_31980904_ASD415.json
+GX001	自閉症、発達退行、中等度知的障害を伴う6歳女児の運動・言語遅滞と特徴的顔貌	FEMALE	P6Y	11	11	0	sampleData/0.1.25_filtered/CHD8/PMID_31980904_GX001.json
+patient 2	社会的応答性低下、中等度知的障害、眼窩上隆起が目立つ8歳男性	MALE	P8Y3M	3	18	0	sampleData/0.1.25_filtered/CHD8/PMID_31980904_patient2.json
+case report	小児男性、巨頭症・知的障害・運動発達遅延を伴う顔貌異常（広鼻・下斜眼裂など）	MALE	P7Y	8	4	0	sampleData/0.1.25_filtered/CHD8/PMID_32309624_casereport.json
+Patient 1	軽度知的障害、脳幹小脳萎縮、摂食困難を伴う女性患者	FEMALE	P53Y	6	14	0	sampleData/0.1.25_filtered/CHD8/PMID_34415117_Patient1.json
+patient 2	低緊張・大頭症・小脳虫部萎縮を伴う自閉症の17歳女性	FEMALE	P17Y	8	9	0	sampleData/0.1.25_filtered/CHD8/PMID_34415117_patient2.json
+Patient 100	自閉症様行動と全般的発達遅滞を示す3歳男性患者	MALE	P3Y	2	9	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient100.json
+Patient 101	自閉症行動と全般的発達遅滞を伴う9歳男性の臨床像	MALE	P9Y	2	9	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient101.json
+Patient 102	自閉症行動、重度知的障害、全般的発達遅延を伴う男性患者	MALE		7	17	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient102.json
+Patient 103	44歳男性、主要所見は肥満、発症時期不明、22項目の神経発達障害を除外。	MALE	P44Y8M	1	22	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient103.json
+Patient 104	自閉症行動、知的障害、長顔を伴う発達遅延が疑われる31歳男性	MALE	P31Y3M	7	16	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient104.json
+Patient 105	重度知的障害、全般的発達遅滞、てんかんを伴う顔貌異常の男性患者	MALE	P29Y	8	20	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient105.json
+Patient 70	軽度知的障害、筋緊張低下、関節可動域拡大を伴う12歳女性の症例	FEMALE	P12Y	6	23	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient70.json
+Patient 71	自閉症行動、社会的応答性低下、全般的発達遅延を伴う11歳女性患者	FEMALE	P11Y	7	17	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient71.json
+Patient 72	先天性発症の男性、P10Y、主要所見は大頭症、自閉症行動、全般的発達遅滞	MALE	P10Y	15	8	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient72.json
+Patient 74	自閉症行動、軽度知的障害、発達全般の遅れを伴う2歳男性患者	MALE	P2Y	7	19	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient74.json
+Patient 75	自閉症行動、全般的発達遅滞、粗大顔貌を伴う19歳女性の臨床像	FEMALE	P19Y	7	19	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient75.json
+Patient 78	自閉症行動、軽度知的障害、全般的発達遅滞を伴う5歳女性の臨床像	FEMALE	P5Y	13	17	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient78.json
+Patient 79	先天性発症の男性患児、巨頭症と全般的発達遅滞、運動遅滞を伴う顔貌異常	MALE	P8Y	7	22	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient79.json
+Patient 80	自閉症行動、軽度知的障害、粗大顔貌を伴う50歳男性の睡眠異常と過体重	MALE	P50Y	7	23	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient80.json
+Patient 81	自閉症行動、睡眠異常、全般的発達遅滞を伴う18歳男性の臨床像	MALE	P18Y	7	19	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient81.json
+Patient 82	自閉症行動、重度知的障害、全身性発達遅滞を伴う男性患者	MALE	P45Y	11	22	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient82.json
+Patient 83	睡眠異常と軽度知的障害を伴う全般的発達遅滞および長顔の27歳女性	FEMALE	P27Y	8	23	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient83.json
+Patient 84	自閉症行動と重度知的障害を伴う33歳男性の症例	MALE	P33Y	2	12	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient84.json
+Patient 85	軽度知的障害と全般的発達遅延を伴う不眠・注意力低下・便秘を呈する4歳女性	FEMALE	P4Y11M	9	19	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient85.json
+Patient 86	性格機能障害と関節過可動性を伴う長顔・尖った顎・扁平足の10歳男性	MALE	P10Y8M	5	20	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient86.json
+Patient 87	長顔と関節過可動性を示す12歳女性患者	FEMALE	P12Y5M	2	22	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient87.json
+Patient 88	自閉症様行動を示す10歳男性患者	MALE	P10Y	1	8	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient88.json
+Patient 89	自閉症様行動を示す8歳女性患者	FEMALE	P8Y	1	8	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient89.json
+Patient 90	全般的発達遅滞を認める16歳女性、他の神経発達症状は否定的。	FEMALE	P16Y	1	12	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient90.json
+Patient 91	自閉症行動、全般的発達遅滞、筋緊張低下を伴う11歳男性の症例	MALE	P11Y	3	8	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient91.json
+Patient 95	自閉症様行動を示す3歳男性患者	MALE	P3Y	1	7	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient95.json
+Patient 97	自閉症行動を示す31歳女性患者	FEMALE	P31Y	1	10	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient97.json
+Patient 99	全身性発達遅滞と筋緊張低下を認める5歳女性例	FEMALE	P5Y	2	9	0	sampleData/0.1.25_filtered/CHD8/PMID_36182950_Patient99.json
+nan	先天性発症の男性、巨頭症・自閉症・知的障害を伴う全般的発達遅滞	MALE	P3Y10M	13	17	0	sampleData/0.1.25_filtered/CHD8/PMID_36731504_nan.json
+Patient	先天性発症の男性、巨頭症・低緊張・自閉症を伴う知的障害と発達遅滞	MALE	P21Y	14	15	0	sampleData/0.1.25_filtered/CHD8/PMID_38428335_Patient.json
+Patient 1	小児期発症の全身性ジストニア、中等度知的障害、不安、下顎前突を伴う女性	FEMALE	P53Y	4	12	0	sampleData/0.1.25_filtered/CHD8/PMID_38441608_Patient1.json
+Patient 2	25歳女性、Writer's crampとLimb dystoniaを主訴とする臨床遺伝的検討例	FEMALE	P25Y	2	14	0	sampleData/0.1.25_filtered/CHD8/PMID_38441608_Patient2.json
+Patient 3	四肢ジストニア、軽度知的障害、巨頭症を伴う7歳女性	FEMALE	P7Y	5	15	0	sampleData/0.1.25_filtered/CHD8/PMID_38441608_Patient3.json
+III-1	視力低下、巨大角膜、前房深大、角膜厚減少を伴う11歳男性患者	MALE	P11Y	4	1	0	sampleData/0.1.25_filtered/CHRDL1/PMID_24073597_III-1.json
+Case presentation	先天性発症の全身性筋緊張低下と運動発達遅滞を伴う特徴的顔貌と関節過可動性	MALE	P3Y	14	0	0	sampleData/0.1.25_filtered/CHST14/PMID_30249733_Casepresentation.json
+patient IV-1	指の過剰指節・指の湾曲・歯の欠如を伴う低位耳と丸顔の男性患者	MALE	P21Y	7	1	0	sampleData/0.1.25_filtered/CHSY1/PMID_24269551_patientIV-1.json
+patient IV-2	Talon cuspと指の過剰指節・湾曲を伴う丸顔と低位耳の12歳男性	MALE	P12Y	6	2	0	sampleData/0.1.25_filtered/CHSY1/PMID_24269551_patientIV-2.json
+nan	筋硬直と筋緊張性、全身性筋肥大およびクレアチンキナーゼ高値を伴う男性患者	MALE	P21Y	5	2	0	sampleData/0.1.25_filtered/CLCN1/PMID_30243293_nan.json
+Family A individual 3	ネフロカルシノーシス、尿中カルシウム・マグネシウム排泄増加、夜間遺尿を伴う女性	FEMALE	P20Y	4	3	0	sampleData/0.1.25_filtered/CLDN16/PMID_14628289_FamilyAindividual3.json
+Family A individual 4	ネフロカルシノーシス、尿中カルシウム・マグネシウム排泄増加、夜間遺尿を伴う男性患者	MALE	P15Y	4	3	0	sampleData/0.1.25_filtered/CLDN16/PMID_14628289_FamilyAindividual4.json
+Family A individual 6	小児女性、ネフロカルシノーシス・高カルシウム尿症・高マグネシウム尿症を伴う夜尿症	FEMALE	P7Y	4	3	0	sampleData/0.1.25_filtered/CLDN16/PMID_14628289_FamilyAindividual6.json
+Family B individual 6	高レニン・高アルドステロン血症を伴う高カルシウム尿症と腎石灰化の11歳男性	MALE	P11Y	6	2	0	sampleData/0.1.25_filtered/CLDN16/PMID_14628289_FamilyBindividual6.json
+index case	腎石灰化、腎不全、高尿酸尿を伴うP7M男性の臨床遺伝的特徴	MALE	P7M	6	0	0	sampleData/0.1.25_filtered/CLDN16/PMID_15856319_indexcase.json
+patient	腎石灰化、再発性尿路感染症、脚の湾曲を伴う腎不全と電解質異常	UNKNOWN_SEX		8	2	0	sampleData/0.1.25_filtered/CLDN16/PMID_16501001_patient.json
+Patient 1 (sister)	低カルシウム発作と腎石灰化を伴う腎不全、血中クレアチニン濃度上昇の11歳女性	FEMALE	P11Y	7	1	0	sampleData/0.1.25_filtered/CLDN16/PMID_16705067_Patient1sister.json
+Patient 2 (brother)	腎石症、腎不全、低マグネシウム血症を伴う腎カルシウム沈着症の15歳男性	MALE	P15Y	8	1	0	sampleData/0.1.25_filtered/CLDN16/PMID_16705067_Patient2brother.json
+ index case	若年成人発症の慢性腎疾患第5期、高血圧、腎石灰化を伴う電解質異常	MALE	P33Y	11	7	0	sampleData/0.1.25_filtered/CLDN16/PMID_18816383_indexcase.json
+sister	ネフロカルシノーシス、ステージ5慢性腎疾患、発育不全を伴う女性患者	FEMALE	P28Y	5	0	0	sampleData/0.1.25_filtered/CLDN16/PMID_18816383_sister.json
+F3.1 	低カルシウム血性けいれん、腎石灰化、腎不全を伴う低マグネシウム血症の男性患者	MALE	P13Y	8	2	0	sampleData/0.1.25_filtered/CLDN16/PMID_21669885_F31.json
+II:1	高カルシウム尿症、腎石灰化、再発性尿路感染を伴う腎機能障害の男性	MALE		11	2	0	sampleData/0.1.25_filtered/CLDN16/PMID_24321194_II1.json
+II:11	女性患者II:11、Nephrocalcinosisを認めるがNephrolithiasisや電解質異常は否定。	FEMALE		1	5	0	sampleData/0.1.25_filtered/CLDN16/PMID_24321194_II11.json
+II:2	低マグネシウム血症と低クエン酸尿症を伴う腎不全および尿路感染症の再発	MALE		9	2	0	sampleData/0.1.25_filtered/CLDN16/PMID_24321194_II2.json
+II:3	腎結石、腎石灰化、腎不全を伴う低マグネシウム血症および低カルシウム血症	MALE		5	3	0	sampleData/0.1.25_filtered/CLDN16/PMID_24321194_II3.json
+II:6	Nephrocalcinosis、腎不全、低マグネシウム血症を伴う男性患者	MALE		4	4	0	sampleData/0.1.25_filtered/CLDN16/PMID_24321194_II6.json
+II:8	腎石灰化、腎不全、低マグネシウム血症を伴う女性患者	FEMALE		4	4	0	sampleData/0.1.25_filtered/CLDN16/PMID_24321194_II8.json
+F10.1	高カルシウム尿症・副甲状腺ホルモン上昇・腎不全を伴う成長不良の6か月男児	MALE	P06M	8	11	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F101.json
+F1.1	高カルシウム尿症、腎石灰化症、腎不全を伴う14歳女性の臨床像	FEMALE	P14Y	11	9	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F11.json
+F11.1	高カルシウム尿症・副甲状腺ホルモン上昇・腎不全を伴う乳児の腎石灰化症	MALE	P4M	11	8	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F111.json
+F11.2	高カルシウム尿症・副甲状腺ホルモン上昇・腎石灰化を伴う腎機能不全の乳児男性	MALE	P7M	12	8	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F112.json
+F12.1	高カルシウム尿症・腎石灰化症・副甲状腺ホルモン上昇を伴う成長不良の2歳女児	FEMALE	P2Y	11	8	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F121.json
+F13.1	高カルシウム尿症・副甲状腺ホルモン上昇・腎不全を伴う2歳女性の発育不良	FEMALE	P2Y	10	9	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F131.json
+F14.1	高カルシウム尿症・副甲状腺ホルモン上昇・腎石灰化を伴う腎機能不全の6歳女性	FEMALE	P6Y	14	6	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F141.json
+F15.1	高カルシウム尿症、腎石灰化症、低クエン酸尿症を伴う腎性マグネシウム喪失症の5歳男児	MALE	P5Y3M	8	11	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F151.json
+F16.1	高カルシウム尿症・高マグネシウム尿症・副甲状腺ホルモン上昇を伴う腎不全の8歳男児	MALE	P8Y	8	11	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F161.json
+F17.1	高カルシウム尿症・高マグネシウム尿症・副甲状腺ホルモン上昇を伴う腎石灰化症	FEMALE	P9M	11	7	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F171.json
+F2.1	小児男性、腎石症・腎石灰化・慢性腎疾患5期を伴う高カルシウム尿症と副甲状腺ホルモン上昇	MALE	P6Y2M	12	7	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F21.json
+F3.1	高カルシウム尿症・副甲状腺ホルモン上昇・腎石灰化を伴う腎機能不全の16歳男性	MALE	P16Y3M	10	10	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F31.json
+F3.2	高カルシウム尿症、腎石灰化症、腎不全を伴う多尿・多飲の12歳男性	MALE	P12Y11M	11	9	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F32.json
+F3.3	高カルシウム尿症、腎石灰化症、腎機能不全を伴う12歳男性の臨床像	MALE	P12Y11M	9	11	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F33.json
+F3.4	高カルシウム尿症、腎石灰化症、腎機能障害を伴う小児男性例	MALE	P6Y3M	10	10	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F34.json
+F4.1	高カルシウム尿症・腎石灰化症・副甲状腺ホルモン上昇を伴う腎機能不全の2歳女性	FEMALE	P2Y	10	10	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F41.json
+F4.2	小児男性、腎石灰化・腎機能障害・副甲状腺ホルモン上昇を伴う高カルシウム尿症	MALE	P7Y10M	11	9	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F42.json
+F5.1	高カルシウム尿症、腎石灰化、副甲状腺ホルモン上昇を伴う腎機能不全の1歳男児	MALE	P1Y7M	7	12	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F51.json
+F5.2	高カルシウム尿症・副甲状腺ホルモン上昇・腎石灰化を伴う腎不全の11か月男児	MALE	P11M	6	13	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F52.json
+F6.1	高カルシウム尿症、腎石灰化症、反復性尿路感染症を伴う4歳女児の症例	FEMALE	P4Y	17	2	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F61.json
+F7.1	高カルシウム尿症・高マグネシウム尿症・副甲状腺ホルモン上昇を伴う腎石灰化症の1歳男児	MALE	P1Y	12	7	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F71.json
+F7.2	高カルシウム尿症、腎石灰化症、反復性尿路感染症を伴う腎機能不全の1歳男児	MALE	P1Y	15	4	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F72.json
+F8.1	高カルシウム尿症、腎石灰化症、反復性尿路感染を伴う1歳女性の腎機能障害	FEMALE	P1Y	14	6	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F81.json
+F9.1	小児女性の高カルシウム尿症・副甲状腺ホルモン上昇・腎石灰化を伴う腎機能障害	FEMALE	P10Y	11	8	0	sampleData/0.1.25_filtered/CLDN16/PMID_25477417_F91.json
+patient	乳児期発症の男性、慢性腎疾患第5期、ネフロカルシノーシス、低マグネシウム血症	MALE	P23Y	10	7	0	sampleData/0.1.25_filtered/CLDN16/PMID_25852890_patient.json
+patient	慢性腎臓病ステージ5、腎結石、腹痛を伴う高カルシウム尿症と低マグネシウム血症	FEMALE	P26Y	11	0	0	sampleData/0.1.25_filtered/CLDN16/PMID_26136118_patient.json
+Patient 1	ネフロカルシノーシス、エナメル形成不全、低カルシトリオール血症を伴うP15女性	FEMALE	P15Y	9	3	0	sampleData/0.1.25_filtered/CLDN16/PMID_26426912_Patient1.json
+Patient 2	ネフロカルシノーシス、低カルシウム発作、エナメル形成不全を伴う女性患者	FEMALE	P26Y	7	2	0	sampleData/0.1.25_filtered/CLDN16/PMID_26426912_Patient2.json
+Patient 3	ネフロカルシノーシス、ステージ5慢性腎疾患、エナメル形成不全を伴う女性患者	FEMALE	P45Y	6	1	0	sampleData/0.1.25_filtered/CLDN16/PMID_26426912_Patient3.json
+Patient 4	腎石灰化、低マグネシウム血症、腎不全を伴う小児の歯形成不全症	MALE	P6Y	7	2	0	sampleData/0.1.25_filtered/CLDN16/PMID_26426912_Patient4.json
+Patient 5	ネフロカルシノーシス、アメロジェネシス不全、ステージ5慢性腎疾患の女性患者	FEMALE	P25Y	6	1	0	sampleData/0.1.25_filtered/CLDN16/PMID_26426912_Patient5.json
+IV1	低身長、腎石灰化、低マグネシウム血症を伴う15歳男性の筋力低下と腎機能障害	MALE	P15Y	16	6	0	sampleData/0.1.25_filtered/CLDN16/PMID_27067446_IV1.json
+IV3	小児女性に多尿・多飲、腎不全、低マグネシウム血症を伴う腎石灰化と高カルシウム尿症	FEMALE	P10Y	12	9	0	sampleData/0.1.25_filtered/CLDN16/PMID_27067446_IV3.json
+11 month old boy	腎石灰化、腎性マグネシウム喪失、腎不全を伴う高カルシウム尿症の9歳男児	MALE	P9Y	11	12	0	sampleData/0.1.25_filtered/CLDN16/PMID_32869508_11montholdboy.json
+cohort	知的障害、粗大運動発達遅延、焦点性皮質異形成を伴う焦点発作と攻撃的行動	UNKNOWN_SEX		6	29	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_16571880_cohort.json
+Patient 3	てんかんと統合失調症を呈する35歳女性、発達遅滞・知的障害・言語遅延は否定。	FEMALE	P35Y	2	3	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_17646849_Patient3.json
+girl	発達遅延・知的障害・自閉症行動を伴う女性患者のてんかんと脳室周囲白質軟化症	FEMALE		7	28	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_19302947_girl.json
+P1a	知的障害と小頭症を伴う全般的発達遅滞、言語発達遅延、脳幹低形成の女性	FEMALE	P20Y	8	36	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_19896112_P1a.json
+P1b	知的障害と発達遅延を伴う男性患者、厚い赤唇縁と広い口が特徴	MALE	P15Y	6	38	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_19896112_P1b.json
+P2	知的障害と自閉症行動を伴う発達遅延、言語発達遅延、過呼吸を示す11歳女性	FEMALE	P11Y	6	31	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_19896112_P2.json
+C1	知的障害と発達遅滞を伴う小頭症および特徴的顔貌を呈する8歳女児	FEMALE	P8Y	11	18	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_21827697_C1.json
+C2	知的障害と発達遅滞を伴う男性患者、言語発達遅延と過呼吸およびてんかんを呈する	MALE	P18Y	5	23	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_21827697_C2.json
+C3	知的障害と発達遅延を伴う11歳女性、発作・過呼吸・広い口が特徴。	FEMALE	P11Y	7	21	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_21827697_C3.json
+C4	知的障害と発達遅延、てんかんを伴う広い前額と特徴的顔貌の7歳女性	FEMALE	P7Y	8	20	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_21827697_C4.json
+C5	全身性発達遅滞と知的障害を伴う言語発達遅延、特徴的顔貌を示す2歳女性	FEMALE	P2Y8M	7	21	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_21827697_C5.json
+C6	知的障害と発達遅滞を伴う小頭症、てんかん、特徴的顔貌を有する8歳女児	FEMALE	P8Y	9	20	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_21827697_C6.json
+C7	小頭症と知的障害を伴う発達遅滞、特徴的顔貌を示す8歳女性	FEMALE	P8Y	9	21	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_21827697_C7.json
+Mik5	知的障害と言語発達遅滞を伴うが全般的発達遅滞やてんかん発作は否定的	UNKNOWN_SEX		2	7	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_22031302_Mik5.json
+brother	受容言語遅滞を主訴とする5歳男児の症例	MALE	P5Y	1	33	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_23074684_brother.json
+proband	3歳男性、全般的発達遅延と粗大運動発達遅延を認める	MALE	P3Y	2	31	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_23074684_proband.json
+Patient III:4	知的障害・発達遅延・てんかんを伴う女性患者	FEMALE		7	29	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_25045150_PatientIII4.json
+Patient III:5	知的障害と全般的発達遅滞を伴う両側性強直間代発作の男性例	MALE		5	29	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_25045150_PatientIII5.json
+Patient 1	発達遅滞・知的障害・自閉症行動を伴う焦点発作と両側性強直間代発作の女性	FEMALE		8	14	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_26843181_Patient1.json
+Patient 2	発達遅滞と知的障害を伴う自閉症行動、焦点発作、脳波異常、虫部低形成	FEMALE	P14Y	8	13	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_26843181_Patient2.json
+father A:III:1	両側性強直間代発作を呈する男性患者	MALE		1	4	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27066544_fatherAIII1.json
+proband A:IV:1	両側性強直間代発作を呈する47歳女性、発達遅滞・知的障害・言語遅延は否定。	FEMALE	P47Y	1	3	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27066544_probandAIV1.json
+Individual 1	発達遅滞と知的障害を伴う女性児、てんかん発作と筋緊張低下を認める	FEMALE	P12Y5M	10	17	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27439707_Individual1.json
+Individual 2	全身性発達遅滞と知的障害を伴う女性、てんかん発作と運動異常を呈する。	FEMALE	P2Y	10	11	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27439707_Individual2.json
+Individual 3	全般的発達遅滞と知的障害を伴う言語発達遅延、てんかん発作および局所皮質形成異常	MALE	P4Y7M	8	18	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27439707_Individual3.json
+Individual 4	知的障害、発達遅滞、てんかんを伴う47歳男性の臨床像	MALE	P47Y	6	12	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27439707_Individual4.json
+Individual 5	知的障害と全般的発達遅延を伴うてんかん発作および低反射性の男性患者	MALE	P40Y	8	18	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27439707_Individual5.json
+Individual 6	知的障害と全般発達遅延を伴うてんかん重積状態の13歳男性	MALE	P13Y6M	6	14	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27439707_Individual6.json
+Individual 7	発達遅滞と知的障害を伴う小脳虫部萎縮および痙性を示す14歳男性	MALE	P14Y2M	10	11	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27439707_Individual7.json
+Individual 8	知的障害、全般的発達遅延、てんかんを伴う9歳男性の臨床像	MALE	P9Y8M	8	13	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_27439707_Individual8.json
+Case report	3歳男性、低緊張・発達遅滞・知的障害を伴う小頭症とてんかん発作	MALE	P3Y	9	9	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_30762603_Casereport.json
+Case Presentation	知的障害と発達遅滞を伴う攻撃性行動および特徴的顔貌を示す10歳男性	MALE	P10Y8M	12	19	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_33042910_CasePresentation.json
+Case report	知的障害と発達遅滞を伴う焦点発作、狭い前額部と肥満を特徴とする女性例	FEMALE	P21Y	9	10	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_33895390_Casereport.json
+Case presentation	自閉症行動、運動常同、全般的発達遅滞、便秘を伴う乳児期発症の7歳男性	MALE	P7Y	4	0	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_34641913_Casepresentation.json
+Patient	乳児期痙攣と全般的発達遅滞を呈する8か月男性患者	MALE	P8M	2	0	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_34737720_Patient.json
+proband	発達遅滞、局所発作、低緊張を伴う7歳女性の自閉症行動と知的障害	FEMALE	P7Y	11	15	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_34778490_proband.json
+sister	全身性けいれん重積発作、運動発達遅延、低緊張を伴う3歳女性の臨床像	FEMALE	P3Y	6	4	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_34778490_sister.json
+III-4	知的障害、言語発達遅延、焦点発作を伴う女性患者	FEMALE		6	33	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_35911904_III-4.json
+III-5	知的障害、言語発達遅滞、てんかん発作を伴う女性患者	FEMALE		5	33	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_35911904_III-5.json
+V-2	知的障害・言語発達遅延・両側性焦点発作を伴う強直間代発作の男性患者	MALE		4	26	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_35911904_V-2.json
+V-4	知的障害、言語発達遅滞、攻撃的行動、焦点発作を伴う男性患者	MALE		4	27	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_35911904_V-4.json
+Family 10 individual ind-14	発達遅延・知的障害・自閉症行動を伴う小脳虫部萎縮とけいれん発作の女性患者	FEMALE	P4Y6M	9	31	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_37183190_Family10individualind-14.json
+Family 11 individual ind-15	知的障害と自閉症行動を伴う全般的発達遅延、てんかん発作および低緊張の男性患者	MALE	P13Y6M	7	33	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_37183190_Family11individualind-15.json
+Family 12 individual ind-16	発達遅延と焦点発作を伴うEEG異常および脳白質減少を示す男性患者	MALE		7	31	0	sampleData/0.1.25_filtered/CNTNAP2/PMID_37183190_Family12individualind-16.json
